@@ -148,8 +148,8 @@ We agree that working independently without assigned tasks is not allowed.
 6.1 Team GitHub org, repo, and Project board
 Fill these in during Sunday post-lecture setup (Team Prepwork guide §4).
 
-Team GitHub org URL: <https://github.com/capstone-<team-slug>> — for example, https://github.com/capstone-group1-team1
-Team repo URL: <https://github.com/capstone-<team-slug>/main-repo>
+Team GitHub org URL: <https://github.com/capstone-group2-team2> — for example, https://github.com/capstone-group1-team1
+Team repo URL: <https://github.com/capstone-group2-team2/main-repo>
 GitHub Project board URL: <https://github.com/orgs/capstone-<team-slug>/projects/1>
 Every teammate is an org Owner (confirmed in Team Prepwork §4 Step 3).
 The Technical Team (Lead Instructor + Teaching Assistants) is invited as Members with Write access on main-repo (Step 5).
