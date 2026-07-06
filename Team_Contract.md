@@ -1,7 +1,7 @@
 1. Team roster
 Team slug : <group2-team2>
 
-Team name : <team InnovAItors>  
+Team name : <InnovAItors>  
 
 Teammates:
 
@@ -150,7 +150,7 @@ Fill these in during Sunday post-lecture setup (Team Prepwork guide §4).
 
 Team GitHub org URL: <https://github.com/capstone-group2-team2> — for example, https://github.com/capstone-group1-team1
 Team repo URL: <https://github.com/capstone-group2-team2/main-repo>
-GitHub Project board URL: <https://github.com/orgs/capstone-<team-slug>/projects/1>
+GitHub Project board URL: <https://github.com/orgs/capstone-group2-team2/projects/2>
 Every teammate is an org Owner (confirmed in Team Prepwork §4 Step 3).
 The Technical Team (Lead Instructor + Teaching Assistants) is invited as Members with Write access on main-repo (Step 5).
 Every part of the working project lives in main-repo: code, tests, README, executive briefing, architecture diagram, runbook, Dataset OR Model Card, demo scripts. Nothing that is graded lives outside the repo.
