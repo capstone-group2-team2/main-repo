@@ -8,7 +8,7 @@ Teammates:
 Name	               | GitHub handle	       | Preferred contact hours (with timezone) |	Best pronounceable phonetic (for Demo Day intro)
 **Hashem Al Qurashi**  |  hashemalqurashi805-svg  | 6  pm  to 5 am 	                     |     …
 **Mohannad Nassrallah**| MohannadNassralla	   | 10 am  to 1 pm	                         |     …
-**Batool Al-Sawalqa**  |	     …	           | 2  pm  to 9 pm                          |      …
+**Batool Al-Sawalqa**  | BatoolMadi	           | 10  am  to 7 pm                          |    Batool (bah-TOOL) Madi (MAH-dee)
 **Alaa Araydah**	   | AlaaAraydah3	       | 10 am  to 4 pm	                         |    Alaa(ah-LAH) Araydah(ah-RAY-dah)
 
 
@@ -22,7 +22,10 @@ Teammate 1: - Backend development
 Teammate 2: - AG pipeline design
             - Database management
             - Data modeling
-Teammate 3:   …
+
+Teammate 3: - AI integration
+            - Frontend development
+            - System testing & debugging
 
 Teammate 4: - Project management
             - Python & machine learning
@@ -33,10 +36,10 @@ Teammate 4: - Project management
 2.2 How your team will use those strengths
 
 Work will be distributed based on each team member’s strengths.
- Teammate 1: will lead backend development and API implementation. 
- Teammate 2: will be responsible for designing the RAG system, managing the database, and preparing the data.
- Teammate 3: will support AI feature integration, develop the frontend interface, conduct testing and debugging, and contribute to project documentation. 
- Teammate 4: he will coordinate the team’s work, define the project scope (scoping), and oversee the integration of the Knowledge Graph and how the system components connect together. Design decisions will be made collaboratively, with flexibility to adjust roles as needed throughout the sprint.
+ Teammate 1: Will lead backend development and API implementation. 
+ Teammate 2: Will be responsible for designing the RAG system, managing the database, and preparing the data.
+ Teammate 3: Will be responsible for frontend development, integrating AI-powered features into the application, and supporting system testing and documentation. 
+ Teammate 4: Will coordinate the team’s work, define the project scope (scoping), and oversee the integration of the Knowledge Graph and how the system components connect together. Design decisions will be made collaboratively, with flexibility to adjust roles as needed throughout the sprint.
 
 …
 
@@ -44,17 +47,17 @@ Work will be distributed based on each team member’s strengths.
 
 Teammate 1: Improve backend development skills.
 Teammate 2: Learn more about RAG systems and database optimization.
-Teammate 3: Improve frontend development skills, learn how to integrate frontend with backend
+Teammate 3: Strengthen my AI engineering skills, gain more experience in building intelligent systems, and improve AI integration in real-world applications.
 Teammate 4: Improve project management and Knowledge Graph development skills.
 
 2.4 Day-to-day work approach
 Every teammate must understand every part of the project. No steamrolling. Undoing, redoing, or replacing another teammate’s work without conversation is not acceptable. Answer:
 
-We will hold a daily sync on Google meet and Slack at a time that works for all team members. Each meeting will last about 10–30 minutes to review progress, discuss blockers, and plan the next steps.
+We will hold a daily sync on Google Meet and Slack at a time that works for all team members. Each meeting will last about 30–60 minutes to review progress, discuss blockers, and plan the next steps.
 
-We will use a Google docs to track tasks, including what is To Do, In Progress, Blocked, and Done, so everyone has a clear view of the project status.
+We will use Jira to manage and track project tasks using a Kanban board with the statuses To Do, In Progress, Blocked, In Review, and Done while keeping the GitHub Project board updated, ensuring everyone has clear visibility into the project's progress.
 
-Each teammate will be responsible for a meaningful part of the project while also contributing to shared tasks such as testing, documentation, and code reviews. Any major changes to another teammate’s work will be discussed with the team before being made.
+Each teammate will be responsible for a meaningful part of the project while also contributing to shared tasks such as testing, documentation, and code reviews. Any major changes to another teammate's work will be discussed with the team before being made.
 …
 
 3. Conflict Plan
@@ -95,7 +98,7 @@ Confirm every teammate agrees to this escalation path.
 
 Teammate 1: 6  pm  to 1 am 
 Teammate 2: 10 am  to 3 pm	
-Teammate 3: 2  pm  to 9 pm
+Teammate 3: 10 am  to 7 pm
 Teammate 4: 10 am  to 5 pm
 
 Team daily sync time: 7:00 PM (Jordan Time) on <Google meet>.
@@ -129,7 +132,11 @@ Teammate 4: I want everyone to have an equal opportunity to speak, and I appreci
 5.1 Task identification, assignment, tracking
 Answer:
 
-We will break the project into tasks by translating the main project features into smaller actionable items during the planning phase and refining them during each daily sync. We will use <shared Google Doc> to track all tasks, with one card per task and a clear assignee. A task will be considered done when its pull request is merged into the main branch after review and a brief demonstration during the next sync.
+We will break the project into tasks by translating the main project features into smaller actionable items during the planning phase and refining them during each daily sync.
+
+We will use Jira to manage and track all project tasks, with one card per task, a clear assignee, and workflow statuses such as To Do, In Progress, In Review, Blocked, and Done.
+
+A task will be considered done when its pull request is merged into the main branch after review and a brief demonstration during the next daily sync.
 
 …
 
@@ -184,6 +191,8 @@ Automations: PR opened → In review; PR merged → Done (Set at Team Prepwork �
 Board update rhythm. When you start a task, move its card to In progress. If a card sits in In progress > 24 hours without a note, someone asks about it at standup.
 Daily standup rhythm: 7:00 PM (UTC+3, Jordan Time) on Google meet. Each teammate shares what they finished yesterday, what they will work on today, and any blockers. The standup will last no more than 30 minutes. Each teammate answers: what did I finish yesterday, what will I finish today, what is blocking me. 15 minutes maximum.
 
+If additional technical discussions, planning, code reviews, or design decisions are needed, the meeting may be extended to a maximum of 60 minutes.
+
 6.6 Post-cohort plan for your GitHub org
 Your team’s GitHub org and repo live on after the cohort. Decide together now what happens next:
 
@@ -205,7 +214,7 @@ Every teammate reviews the completed contract and signs by adding their GitHub h
 
 Teammate 1 (@<HashemAlQurashi-svg>) — reviewed and agrees.
 Teammate 2 (@<MohannadNassralla>) — reviewed and agrees.
-Teammate 3 (@<handle>) — reviewed and agrees.
+Teammate 3 (@<BatoolMadi>) — reviewed and agrees.
 Teammate 4 (@<AlaaAraydah3>) — reviewed and agrees.
 Date completed: <2026-07-06>.
 
