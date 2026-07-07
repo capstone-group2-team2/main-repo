@@ -1,6 +1,6 @@
 1. Team roster
 Team slug : <group2-team2>
-# Team InnovAItors 🚀
+# Team SynovaAI 
 ### Capstone Project — Group 2 Team 2 
 
 Teammates:
