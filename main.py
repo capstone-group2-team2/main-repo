@@ -37,3 +37,4 @@ async def chat(message: str, department: str):
     collection = "technical_docs" if department == "technical" else "hr_docs"
     answer = get_answer(message, collection)
     return {"user_input": message, "answer": answer}
+#main.py
