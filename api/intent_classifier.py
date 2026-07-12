@@ -1,0 +1,54 @@
+from fastapi import FastAPI
+from pydantic import BaseModel, Field
+from datetime import datetime
+from transformers import pipeline
+import nest_asyncio
+import uvicorn
+import threading
+
+nest_asyncio.apply()
+
+app = FastAPI(
+    title="Intent Classifier API",
+    description="يصنف رسالة العميل إلى support أو sales باستخدام نموذج DistilBERT مدرّب"
+)
+
+# Load the trained intent classifier model
+classifier = pipeline("text-classification", model="../intent_classifier_model")
+
+class IntentRequest(BaseModel):
+    customer_id: str = Field(..., min_length=1)
+    message: str = Field(..., min_length=1, max_length=2000)
+
+
+class IntentResponse(BaseModel):
+    customer_id: str
+    message: str
+    intent: str
+    confidence: float
+    timestamp: str
+
+
+@app.get("/")
+def home():
+    return {"message": "Intent Classifier is running"}
+
+
+@app.get("/healthz")
+def healthz():
+    return {"status": "ok"}
+
+
+@app.post("/classify", response_model=IntentResponse)
+def classify(data: IntentRequest) -> IntentResponse:
+    result = classifier(data.message)[0]
+
+    return IntentResponse(
+        customer_id=data.customer_id,
+        message=data.message,
+        intent=result["label"],
+        confidence=round(result["score"], 3),
+        timestamp=datetime.now().isoformat()
+    )
+
+

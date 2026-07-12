@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+
+# Model artifacts (ثقيلة، ما تُرفع لـ Git)
+intent_classifier_model/
+intent_classifier_output/
+results/
