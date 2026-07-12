@@ -1,0 +1,1 @@
+To connect to the VPN, use the Cisco AnyConnect client. Your username is your employee ID and the password is the same as your corporate login.
