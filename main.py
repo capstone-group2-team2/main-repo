@@ -38,3 +38,4 @@ async def chat(message: str, department: str):
     answer = get_answer(message, collection)
     return {"user_input": message, "answer": answer}
 #main.py
+# لسا في مشكله في ملف ال main.py
