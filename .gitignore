@@ -1,0 +1,9 @@
+venv/
+.venv/
+env/
+database/vector_db/
+.vscode/
+__pycache__/
+*.pyc
+.env
+tickets.json
