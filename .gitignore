@@ -16,3 +16,5 @@ frontend/dist/
 
 # Firebase
 backend/firebase/serviceAccountKey.json
+
+models/SentimentModel/model.safetensors
