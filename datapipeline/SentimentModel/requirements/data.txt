@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+openpyxl
+jupyter
+notebook
+ipykernel
+scikit-learn
+nltk
+regex
+tqdm
+pyarrow
