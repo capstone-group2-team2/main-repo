@@ -14,12 +14,18 @@ app = FastAPI(
 )
 
 
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+BASE_DIR = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "..", "..")
+)
 
 MODEL_PATH = os.path.join(
     BASE_DIR,
-    "intent_classifier_model"
+    "models",
+    "IntentClassifierModel"
 )
+
+print("MODEL_PATH =", MODEL_PATH)
+print("EXISTS =", os.path.exists(MODEL_PATH))
 
 classifier = pipeline(
     "text-classification",
@@ -61,3 +67,10 @@ def classify(data: IntentRequest) -> IntentResponse:
     )
 
 
+if __name__ == "__main__":
+    uvicorn.run(
+        app,
+        host="127.0.0.1",
+        port=8001,
+        reload=False
+    )

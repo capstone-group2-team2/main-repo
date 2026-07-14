@@ -4,6 +4,12 @@ from datetime import datetime
 import httpx
 from fastapi.middleware.cors import CORSMiddleware
 
+from services.sentiment.service import SentimentService
+from agents.customer.decision_engine import DecisionEngine
+
+sentiment_service = SentimentService()
+decision_engine = DecisionEngine()
+
 app = FastAPI(title="Reception Agent API")
 
 app.add_middleware(
@@ -27,10 +33,16 @@ class CustomerMessage(BaseModel):
 class ReceptionResponse(BaseModel):
     customer_id: str
     message: str
+
     timestamp: str
     status: str
+
     intent: str
     confidence: float
+
+    sentiment: str
+    sentiment_confidence: float
+
     reply: str
 
 
@@ -58,41 +70,93 @@ async def reception_agent(data: CustomerMessage) -> ReceptionResponse:
         except httpx.RequestError as e:
             raise HTTPException(status_code=503, detail=f"Intent Classifier unreachable: {str(e)}")
 
+        # -----------------------------
+        # Sentiment
+        # -----------------------------
+        sentiment_result = sentiment_service.predict(cleaned_message)
+
+        # -----------------------------
+        # Decision Engine
+        # -----------------------------
+        decision = decision_engine.decide(
+            classifier_result,
+            sentiment_result,
+        )
+
         intent = classifier_result["intent"]
         confidence = classifier_result["confidence"]
 
-       
-        if intent == "sales":
+        # -----------------------------
+        # Routing
+        # -----------------------------
+        if decision.destination == "human_ticket":
+
+            reply = (
+                "Your request has been escalated to a human support representative "
+                "because it appears to require urgent attention."
+            )
+
+        elif decision.destination == "sales_agent":
+
             try:
                 sales_response = await client.post(
                     SALES_AGENT_URL,
-                    json={"customer_id": data.customer_id, "message": cleaned_message},
-                    timeout=10
+                    json={
+                        "customer_id": data.customer_id,
+                        "message": cleaned_message,
+                    },
+                    timeout=10,
                 )
                 sales_response.raise_for_status()
                 sales_result = sales_response.json()
                 reply = sales_result["reply"]
+
             except httpx.RequestError as e:
-                raise HTTPException(status_code=503, detail=f"Sales Agent unreachable: {str(e)}")
-        else:
+                raise HTTPException(
+                    status_code=503,
+                    detail=f"Sales Agent unreachable: {str(e)}",
+                )
+
+        elif decision.destination == "support_agent":
+
             try:
                 support_response = await client.post(
                     SUPPORT_AGENT_URL,
-                    json={"customer_id": data.customer_id, "message": cleaned_message},
-                    timeout=10
+                    json={
+                        "customer_id": data.customer_id,
+                        "message": cleaned_message,
+                    },
+                    timeout=10,
                 )
                 support_response.raise_for_status()
                 support_result = support_response.json()
                 reply = support_result["reply"]
-            except httpx.RequestError as e:
-                raise HTTPException(status_code=503, detail=f"Support Agent unreachable: {str(e)}")
 
+            except httpx.RequestError as e:
+                raise HTTPException(
+                    status_code=503,
+                    detail=f"Support Agent unreachable: {str(e)}",
+                )
+
+        else:
+
+            raise HTTPException(
+                status_code=500,
+                detail="Unknown routing destination.",
+            )
+            
     return ReceptionResponse(
         customer_id=data.customer_id,
         message=cleaned_message,
+
         timestamp=datetime.now().isoformat(),
         status="processed",
+
         intent=intent,
         confidence=confidence,
-        reply=reply
+
+        sentiment=sentiment_result["prediction"],
+        sentiment_confidence=sentiment_result["confidence"],
+
+        reply=reply,
     )

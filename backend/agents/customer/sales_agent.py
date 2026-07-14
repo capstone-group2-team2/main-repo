@@ -2,16 +2,21 @@ from fastapi import FastAPI
 from pydantic import BaseModel, Field
 from datetime import datetime
 import json
+import os
 
-app = FastAPI(
-    title="Sales Agent API",
-    description="Responds to customer inquiries about product prices and availability."
+BASE_DIR = os.path.abspath(
+    os.path.join(os.path.dirname(__file__), "..", "..", "..")
+)
+
+PRICING_FILE = os.path.join(
+    BASE_DIR,
+    "data",
+    "pricing.json"
 )
 
 
 def load_pricing_db():
-    """Load pricing database from JSON file."""
-    with open("data/pricing.json", encoding="utf-8") as f:
+    with open(PRICING_FILE, encoding="utf-8") as f:
         data = json.load(f)
 
     return data["products"]
@@ -19,6 +24,10 @@ def load_pricing_db():
 
 PRICING_DB = load_pricing_db()
 
+app = FastAPI(
+    title="Sales Agent API",
+    description="Responds to customer inquiries about product prices and availability."
+)
 
 class SalesRequest(BaseModel):
     customer_id: str = Field(..., min_length=1)
@@ -98,4 +107,14 @@ def sales_agent(data: SalesRequest):
         price_info=product,
         reply=reply,
         timestamp=datetime.now().isoformat()
+    )
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(
+        app,
+        host="127.0.0.1",
+        port=8002,
+        reload=False
     )

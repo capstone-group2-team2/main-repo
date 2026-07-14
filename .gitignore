@@ -38,3 +38,7 @@ intent_classifier_output/
 # Backend generated files
 results/backend/services/intent/
 backend/services/storage/
+
+models/IntentClassifierModel/
+*.safetensors
+*.bin

@@ -69,6 +69,7 @@ class ReceptionAgent:
             intent_result,
             sentiment_result,
         )
+        rag_response = None
 
         ticket = self.ticket_agent.create_ticket(
             employee_id=employee_id,
