@@ -18,3 +18,12 @@ frontend/dist/
 backend/firebase/serviceAccountKey.json
 
 models/SentimentModel/model.safetensors
+
+# Sentiment datasets
+datapipeline/SentimentModel/data/raw/
+
+# Ignore all processed datasets
+datapipeline/SentimentModel/data/processed/*
+
+# Keep only the final dataset
+!datapipeline/SentimentModel/data/processed/finaldataset.csv

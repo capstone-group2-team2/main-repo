@@ -40,3 +40,16 @@ Distribution:
 80K Positive
 80K Neutral
 80K Negative
+
+# Dataset
+
+The raw and processed datasets are not included in this repository because of their size.
+
+The preprocessing notebooks inside `notebooks/` generate the processed datasets.
+
+Raw datasets:
+
+- Arabic Tweets Sentiment Dataset
+- English Sentiment Dataset
+
+Follow notebooks 01 → 06 to reproduce the final dataset.

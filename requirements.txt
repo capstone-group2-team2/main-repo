@@ -1,0 +1,11 @@
+torch 
+transformers==4.55.4 
+sentencepiece 
+joblib 
+scikit-learn 
+numpy  
+accelerate==1.10.0
+safetensors
+pydantic
+sentence-transformers
+faiss-cpu
