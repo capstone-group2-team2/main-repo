@@ -1,4 +1,4 @@
-# Synova
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/e1fbfbe5-d13b-49c9-a86c-870430be41e5" /># Synova
 
 > AI-Powered Multi-Agent Service Platform for Customer & Employee Support
 
@@ -24,21 +24,9 @@ Synova addresses this challenge through an AI-powered multi-agent platform that 
 
 ## Architecture
 
-The platform consists of a Reception Agent that classifies incoming requests and routes them to specialized AI agents.
+The following diagram illustrates Synova's complete multi-agent architecture, including user role identification, intent classification, specialized AI agents, RAG knowledge retrieval, sentiment analysis, ticket management, and analytics.
 
-Flow:
-
-User
-↓
-Reception Agent
-↓
-Intent Classifier
-↓
-Customer Support | HR | Finance | Sales | Technical Support
-↓
-Knowledge Base (RAG)
-↓
-Response Generation
+<img width="1536" height="1024" alt="SYNOVA" src="https://github.com/user-attachments/assets/9a3b8c82-53aa-4e3f-877c-c61c1191f86e" />
 
 ---
 
@@ -93,13 +81,43 @@ Response Generation
 
 ## Screenshots
 
-Project screenshots will be added here.
+### Landing Page
+
+<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/42cef06b-7f66-425c-9555-caf77819334a" />
+
+---
+
+### Customer Portal Login
+
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/c95d6518-2543-4299-ac1f-22193fd7f47f" />
+
+
+---
+
+### Employee Portal Login
+
+<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/174072b7-31c7-485d-aa9c-fa0578ff2baa" />
+
+
+---
+
+### Employee Workspace Dashboard
+
+<img width="1920" height="1080" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/4a9469be-1405-49e7-ae23-20b01b4101e6" />
+
+---
+
+### System Architecture
+
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/0acca017-5550-41a8-9698-44673860fbf7" />
 
 ---
 
 ## Demo Video
 
-See the 5-minute project demonstration submitted with the capstone.
+Watch the complete 7-minute technical walkthrough here:
+
+https://drive.google.com/file/d/1B5S5_BcKJtYQQ4r48H90mjD-NaV4rz-u/view?usp=sharing
 
 ---
 
