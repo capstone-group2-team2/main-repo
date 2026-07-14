@@ -1,0 +1,44 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+frontend/.env.local
+
+# Firebase
+backend/firebase/serviceAccountKey.json
+
+# Models
+models/SentimentModel/model.safetensors
+
+# Sentiment datasets
+datapipeline/SentimentModel/data/raw/
+
+# Ignore all processed datasets
+datapipeline/SentimentModel/data/processed/*
+
+# Keep only the final dataset
+!datapipeline/SentimentModel/data/processed/finaldataset.csv
+
+# Intent Classifier
+intent_classifier_model/
+intent_classifier_output/
+
+# Backend generated files
+results/backend/services/intent/
+backend/services/storage/
+
+models/IntentClassifierModel/
+*.safetensors
+*.bin

@@ -1,0 +1,149 @@
+﻿id,title,language,category,section,text
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,نظرة عامة,تُعد مشكلات تسجيل الدخول والوصول إلى الحساب من أكثر طلبات الدعم الفني شيوعًا، وتشمل نسيان كلمة المرور، وقفل الحساب، وفشل المصادقة، وانتهاء صلاحية كلمة المرور، ومشكلات التحقق متعدد العوامل (MFA).
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,المشكلات الشائعة,"نسيان كلمة المرور
+قفل الحساب
+اسم مستخدم أو كلمة مرور غير صحيحة
+انتهاء صلاحية كلمة المرور
+العودة المتكررة إلى صفحة تسجيل الدخول
+عدم وصول رمز التحقق
+انتهاء صلاحية رمز OTP
+تعطيل الحساب"
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,الأعراض,"عدم القدرة على تسجيل الدخول
+ظهور رسالة تفيد بأن اسم المستخدم أو كلمة المرور غير صحيحة
+ظهور رسالة تفيد بأن الحساب مقفل
+فشل عملية المصادقة
+انتهاء مهلة التحقق متعدد العوامل
+إعادة تحميل صفحة تسجيل الدخول بشكل متكرر"
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,الأسباب المحتملة,"إدخال كلمة مرور غير صحيحة
+انتهاء صلاحية كلمة المرور
+تجاوز الحد المسموح لمحاولات تسجيل الدخول
+تعطيل الحساب من قبل مسؤول النظام
+وجود مشكلة في الشبكة
+تعطل خدمة المصادقة
+عدم مزامنة جهاز التحقق متعدد العوامل"
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,خطوات استكشاف المشكلة,"تأكد من صحة اسم المستخدم.
+أعد تعيين كلمة المرور.
+امسح ذاكرة التخزين المؤقت وملفات تعريف الارتباط في المتصفح.
+تحقق من اتصال الإنترنت.
+تأكد من عمل جهاز أو تطبيق التحقق متعدد العوامل.
+انتظر عدة دقائق إذا تم قفل الحساب مؤقتًا بسبب كثرة المحاولات.
+تواصل مع مسؤول تقنية المعلومات إذا استمرت المشكلة."
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,أفضل الممارسات,"استخدم كلمة مرور قوية وفريدة.
+لا تشارك كلمة المرور مع أي شخص.
+فعّل التحقق متعدد العوامل (MFA).
+حدّث معلومات استرداد الحساب بشكل دوري."
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,الأسئلة الشائعة,"Q: نسيت كلمة المرور، ماذا أفعل؟
+A: استخدم بوابة إعادة تعيين كلمة المرور أو تواصل مع قسم الدعم الفني.
+Q: تم قفل حسابي، كيف أستعيده؟
+A: انتظر حتى تنتهي مدة القفل أو اطلب من مسؤول النظام إعادة فتح الحساب.
+Q: لم يصلني رمز التحقق (MFA)، ماذا أفعل؟
+A: تحقق من اتصال الإنترنت وتأكد من أن جهاز التحقق المسجل يعمل بشكل صحيح."
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,نظرة عامة,يتيح VPN للموظفين الوصول الآمن إلى موارد الشركة من خارج المكتب. تشمل المشكلات الشائعة فشل الاتصال، أو أخطاء المصادقة، أو انقطاع الاتصال بشكل متكرر.
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,المشكلات الشائعة,"تعذر الاتصال بالـ VPN
+انقطاع الاتصال بشكل متكرر
+فشل المصادقة
+انتهاء مهلة الاتصال
+بطء الاتصال
+الاتصال بالـ VPN دون الوصول إلى موارد الشركة"
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,الأعراض,"فشل تسجيل الدخول إلى VPN
+انتهاء مهلة الاتصال
+عدم الوصول إلى أنظمة الشركة
+انقطاع الاتصال كل بضع دقائق
+عدم القدرة على الوصول إلى الموارد الداخلية"
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,الأسباب المحتملة,"اسم مستخدم أو كلمة مرور غير صحيحة
+ضعف اتصال الإنترنت
+انتهاء صلاحية شهادة VPN
+قيود من جدار الحماية
+تعطل خادم VPN
+مشكلة في إعدادات DNS"
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,خطوات استكشاف المشكلة,"تحقق من اتصال الإنترنت.
+أعد تشغيل تطبيق VPN.
+تأكد من اسم المستخدم وكلمة المرور.
+أعد المحاولة بعد بضع دقائق.
+حدّث تطبيق VPN إلى أحدث إصدار.
+أعد تشغيل الجهاز.
+تواصل مع قسم تقنية المعلومات إذا استمرت المشكلة."
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,أفضل الممارسات,"احرص على تحديث تطبيق VPN باستمرار.
+افصل اتصال VPN عند الانتهاء من العمل.
+فعّل التحقق متعدد العوامل (MFA).
+لا تشارك بيانات تسجيل الدخول الخاصة بالـ VPN."
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,الأسئلة الشائعة,"Q: ينقطع اتصال VPN كل بضع دقائق، ماذا أفعل؟
+A: تحقق من اتصال الإنترنت وأعد تشغيل تطبيق VPN.
+Q: ظهرت رسالة فشل المصادقة.
+A: تأكد من اسم المستخدم وكلمة المرور ورمز التحقق.
+Q: لا أستطيع الوصول إلى أنظمة الشركة.
+A: أعد الاتصال بالـ VPN وتحقق من حالة الشبكة."
+tech_password_access,Password Reset and Account Access,en,technical,Overview,"Account access issues are among the most common IT support requests. They may involve forgotten passwords, locked accounts, authentication failures, password expiration, or multi-factor authentication (MFA) problems."
+tech_password_access,Password Reset and Account Access,en,technical,Common Issues,"Forgotten password
+Account locked
+Incorrect username or password
+Password expired
+Login loop
+MFA code not received
+OTP expired
+Account disabled"
+tech_password_access,Password Reset and Account Access,en,technical,Symptoms,"Unable to log in
+Invalid credentials
+Account locked
+Authentication failed
+MFA timeout
+Login page refreshes continuously"
+tech_password_access,Password Reset and Account Access,en,technical,Possible Causes,"Incorrect password
+Password expiration
+Too many failed login attempts
+Disabled account
+Network issues
+Identity provider unavailable
+MFA device not synchronized"
+tech_password_access,Password Reset and Account Access,en,technical,Troubleshooting,"Verify your username.
+Reset your password.
+Clear browser cache and cookies.
+Check your internet connection.
+Verify your MFA device.
+Wait a few minutes if your account has been temporarily locked.
+Contact the IT Administrator if the issue persists."
+tech_password_access,Password Reset and Account Access,en,technical,Best Practices,"Use a strong and unique password.
+Never share your password.
+Enable multi-factor authentication (MFA).
+Keep your recovery information up to date."
+tech_password_access,Password Reset and Account Access,en,technical,FAQ,"Q: I forgot my password.
+A: Use the password reset portal or contact the IT Help Desk.
+Q: My account is locked.
+A: Wait until the lockout period ends or ask your IT Administrator to unlock your account.
+Q: I didn't receive the MFA code.
+A: Check your internet connection and verify that your registered MFA device is working correctly."
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Overview,"A Virtual Private Network (VPN) allows employees to securely access company resources from remote locations. VPN issues usually involve connection failures, authentication errors, or unstable connectivity."
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Common Issues,"Unable to connect to VPN
+VPN disconnects frequently
+Authentication failed
+VPN timeout
+Slow VPN connection
+VPN connected but no internet access"
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Symptoms,"VPN login fails
+Connection timeout
+Remote resources cannot be accessed
+VPN disconnects every few minutes
+Unable to reach company systems"
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Possible Causes,"Incorrect username or password
+Internet connection problems
+Expired VPN certificate
+Firewall restrictions
+VPN server outage
+DNS configuration issues"
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Troubleshooting,"Verify your internet connection.
+Restart the VPN client.
+Check your username and password.
+Reconnect after a few minutes.
+Update the VPN application.
+Restart your computer.
+Contact IT if the problem continues."
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Best Practices,"Keep the VPN client updated.
+Always disconnect the VPN when not in use.
+Use MFA whenever available.
+Do not share VPN credentials."
+tech_vpn,VPN Connection and Troubleshooting,en,technical,FAQ,"Q: My VPN disconnects every few minutes.
+A: Check your internet connection and restart the VPN client.
+Q: Authentication failed.
+A: Verify your username, password, and MFA.
+Q: I cannot access company resources.
+A: Reconnect to the VPN and verify your network connectivity."

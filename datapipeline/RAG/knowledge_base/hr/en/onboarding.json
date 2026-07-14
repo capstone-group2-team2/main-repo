@@ -1,0 +1,90 @@
+{
+    "id": "hr_onboarding",
+    "title": "Employee Onboarding Process",
+    "language": "en",
+    "category": "hr",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "onboarding",
+      "new employee",
+      "orientation",
+      "training",
+      "hr",
+      "welcome"
+    ],
+    "keywords": [
+      "new employee",
+      "onboarding",
+      "orientation",
+      "first day",
+      "employee training",
+      "new hire",
+      "company induction",
+      "welcome",
+      "documents",
+      "employee setup"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "The onboarding process helps new employees become familiar with the company, its policies, systems, and work environment. It ensures a smooth transition into their new role."
+      },
+      {
+        "title": "Onboarding Steps",
+        "content": [
+          "Complete employment documents.",
+          "Receive company credentials and equipment.",
+          "Attend orientation sessions.",
+          "Meet your manager and team.",
+          "Complete mandatory training.",
+          "Review company policies."
+        ]
+      },
+      {
+        "title": "Required Documents",
+        "content": [
+          "Government-issued ID",
+          "Employment contract",
+          "Bank account information",
+          "Emergency contact details",
+          "Tax or insurance forms (if applicable)"
+        ]
+      },
+      {
+        "title": "Employee Responsibilities",
+        "content": [
+          "Complete all required forms.",
+          "Attend onboarding sessions.",
+          "Review company policies.",
+          "Ask questions whenever clarification is needed."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Complete all onboarding tasks on time.",
+          "Keep your contact information updated.",
+          "Participate actively in orientation sessions.",
+          "Review internal documentation regularly."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "When does onboarding begin?",
+            "answer": "The onboarding process usually begins on your first working day."
+          },
+          {
+            "question": "Who should I contact if I have onboarding questions?",
+            "answer": "Contact the HR department or your direct manager."
+          },
+          {
+            "question": "What if I am missing a required document?",
+            "answer": "Inform HR as soon as possible so they can advise you."
+          }
+        ]
+      }
+    ]
+  }

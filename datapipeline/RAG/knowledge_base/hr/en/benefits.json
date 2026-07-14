@@ -1,0 +1,87 @@
+{
+    "id": "hr_employee_benefits",
+    "title": "Employee Benefits",
+    "language": "en",
+    "category": "hr",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "benefits",
+      "insurance",
+      "medical",
+      "allowances",
+      "employee",
+      "hr"
+    ],
+    "keywords": [
+      "employee benefits",
+      "medical insurance",
+      "health insurance",
+      "allowances",
+      "benefits",
+      "gym membership",
+      "life insurance",
+      "transportation allowance",
+      "housing allowance",
+      "company benefits"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Employee benefits are additional advantages provided by the company beyond the employee's salary. Benefits may include health insurance, allowances, wellness programs, and other company-specific incentives."
+      },
+      {
+        "title": "Available Benefits",
+        "content": [
+          "Medical Insurance",
+          "Life Insurance",
+          "Transportation Allowance",
+          "Housing Allowance",
+          "Training Programs",
+          "Employee Discounts",
+          "Wellness Programs"
+        ]
+      },
+      {
+        "title": "Eligibility",
+        "content": [
+          "Benefits may vary depending on employment type.",
+          "Some benefits become available after the probation period.",
+          "Certain benefits require HR approval."
+        ]
+      },
+      {
+        "title": "How to Request Benefits",
+        "content": [
+          "Submit your request through the HR portal.",
+          "Attach any required documents.",
+          "Wait for HR review and approval."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Review available benefits regularly.",
+          "Keep your personal information updated.",
+          "Contact HR if you have questions."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "Am I eligible for medical insurance?",
+            "answer": "Eligibility depends on company policy and your employment status."
+          },
+          {
+            "question": "How can I update my insurance information?",
+            "answer": "Submit the update through the HR portal or contact HR."
+          },
+          {
+            "question": "Can I request additional benefits?",
+            "answer": "Some additional benefits may be available depending on company policy."
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,89 @@
+{
+    "id": "hr_attendance",
+    "title": "Employee Attendance Policy",
+    "language": "en",
+    "category": "hr",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "attendance",
+      "working hours",
+      "check-in",
+      "check-out",
+      "late",
+      "absence"
+    ],
+    "keywords": [
+      "attendance",
+      "working hours",
+      "check in",
+      "check out",
+      "late arrival",
+      "absence",
+      "timesheet",
+      "working schedule",
+      "clock in",
+      "clock out",
+      "attendance system"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Employees are expected to follow the company's official working hours and attendance policies. Attendance is recorded through the attendance management system."
+      },
+      {
+        "title": "Working Hours",
+        "content": [
+          "Employees must arrive on time.",
+          "Attendance is recorded electronically.",
+          "Working hours are determined by company policy.",
+          "Overtime requires manager approval."
+        ]
+      },
+      {
+        "title": "Common Attendance Issues",
+        "content": [
+          "Late arrival",
+          "Missed check-in",
+          "Missed check-out",
+          "Unplanned absence",
+          "Attendance record mismatch"
+        ]
+      },
+      {
+        "title": "Attendance Procedure",
+        "content": [
+          "Check in at the beginning of the workday.",
+          "Check out before leaving.",
+          "Report attendance issues to HR.",
+          "Notify your manager if you will be absent."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Arrive on time.",
+          "Always use the attendance system.",
+          "Inform your manager about delays.",
+          "Review your attendance records regularly."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "I forgot to check in. What should I do?",
+            "answer": "Notify HR or your manager as soon as possible."
+          },
+          {
+            "question": "Can HR correct my attendance record?",
+            "answer": "Yes, after verification according to company policy."
+          },
+          {
+            "question": "Who approves overtime?",
+            "answer": "Your direct manager."
+          }
+        ]
+      }
+    ]
+  }

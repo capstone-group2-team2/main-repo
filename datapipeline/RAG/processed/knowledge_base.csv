@@ -1,0 +1,691 @@
+﻿id,title,language,category,section,text
+hr_attendance,سياسة الدوام والحضور,ar,hr,نظرة عامة,يجب على جميع الموظفين الالتزام بساعات العمل الرسمية وسياسة الحضور المعتمدة في الشركة، ويتم تسجيل الحضور والانصراف من خلال نظام إدارة الحضور.
+hr_attendance,سياسة الدوام والحضور,ar,hr,ساعات العمل,"يجب الالتزام بموعد بداية الدوام.
+يتم تسجيل الحضور إلكترونيًا.
+تحدد ساعات العمل وفق سياسة الشركة.
+يتطلب العمل الإضافي موافقة المدير."
+hr_attendance,سياسة الدوام والحضور,ar,hr,المشكلات الشائعة,"التأخر عن الدوام
+نسيان تسجيل الحضور
+نسيان تسجيل الانصراف
+الغياب المفاجئ
+وجود خطأ في سجل الحضور"
+hr_attendance,سياسة الدوام والحضور,ar,hr,إجراءات الحضور,"سجل حضورك عند بداية الدوام.
+سجل انصرافك قبل مغادرة العمل.
+أبلغ الموارد البشرية بأي مشكلة في السجل.
+أبلغ مديرك في حال الغياب."
+hr_attendance,سياسة الدوام والحضور,ar,hr,أفضل الممارسات,"الالتزام بمواعيد الدوام.
+استخدام نظام الحضور بشكل دائم.
+إبلاغ المدير عند التأخير.
+مراجعة سجل الحضور بشكل دوري."
+hr_attendance,سياسة الدوام والحضور,ar,hr,الأسئلة الشائعة,"{'question': 'نسيت تسجيل الحضور، ماذا أفعل؟', 'answer': 'أبلغ قسم الموارد البشرية أو مديرك المباشر بأسرع وقت.'}
+{'question': 'هل يمكن تعديل سجل الحضور؟', 'answer': 'نعم، بعد التحقق ووفقًا لسياسة الشركة.'}
+{'question': 'من يوافق على ساعات العمل الإضافية؟', 'answer': 'المدير المباشر.'}"
+hr_employee_benefits,مزايا الموظفين,ar,hr,نظرة عامة,مزايا الموظفين هي المزايا الإضافية التي تقدمها الشركة إلى جانب الراتب، مثل التأمين الصحي، والبدلات، وبرامج التدريب، وبرامج الرفاهية.
+hr_employee_benefits,مزايا الموظفين,ar,hr,المزايا المتاحة,"التأمين الطبي
+التأمين على الحياة
+بدل المواصلات
+بدل السكن
+برامج التدريب
+خصومات الموظفين
+برامج الرفاهية"
+hr_employee_benefits,مزايا الموظفين,ar,hr,شروط الاستحقاق,"قد تختلف المزايا حسب نوع عقد العمل.
+تتوفر بعض المزايا بعد انتهاء فترة التجربة.
+بعض المزايا تتطلب موافقة قسم الموارد البشرية."
+hr_employee_benefits,مزايا الموظفين,ar,hr,كيفية طلب المزايا,"قدّم الطلب عبر بوابة الموارد البشرية.
+أرفق المستندات المطلوبة.
+انتظر مراجعة وموافقة قسم الموارد البشرية."
+hr_employee_benefits,مزايا الموظفين,ar,hr,أفضل الممارسات,"راجع المزايا المتاحة بشكل دوري.
+حدّث بياناتك الشخصية باستمرار.
+تواصل مع الموارد البشرية عند وجود أي استفسار."
+hr_employee_benefits,مزايا الموظفين,ar,hr,الأسئلة الشائعة,"{'question': 'هل أستحق التأمين الطبي؟', 'answer': 'يعتمد ذلك على سياسة الشركة وحالة التوظيف الخاصة بك.'}
+{'question': 'كيف أحدث بيانات التأمين؟', 'answer': 'قدّم طلب التحديث عبر بوابة الموارد البشرية أو تواصل مع القسم.'}
+{'question': 'هل يمكنني طلب مزايا إضافية؟', 'answer': 'قد تكون بعض المزايا الإضافية متاحة حسب سياسة الشركة.'}"
+hr_leave_policy,سياسة الإجازات,ar,hr,نظرة عامة,يحق للموظفين الحصول على أنواع مختلفة من الإجازات وفقًا لسياسة الشركة. يجب تقديم طلب الإجازة من خلال نظام الموارد البشرية والحصول على موافقة المدير المباشر قبل بدء الإجازة.
+hr_leave_policy,سياسة الإجازات,ar,hr,أنواع الإجازات,"الإجازة السنوية
+الإجازة المرضية
+الإجازة الطارئة
+إجازة الأمومة
+إجازة الأبوة
+الإجازة بدون راتب"
+hr_leave_policy,سياسة الإجازات,ar,hr,شروط الاستحقاق,"يستحق الموظف الإجازة السنوية وفق سياسة الشركة.
+قد تتطلب الإجازة المرضية تقريرًا طبيًا.
+الإجازة الطارئة تخضع لموافقة المدير."
+hr_leave_policy,سياسة الإجازات,ar,hr,خطوات طلب الإجازة,"قدّم طلب الإجازة عبر نظام الموارد البشرية.
+حدد نوع الإجازة.
+حدد تاريخ البداية والنهاية.
+أرفق المستندات المطلوبة عند الحاجة.
+انتظر موافقة المدير قبل بدء الإجازة."
+hr_leave_policy,سياسة الإجازات,ar,hr,أفضل الممارسات,"قدّم طلب الإجازة مبكرًا.
+تحقق من رصيد الإجازات قبل تقديم الطلب.
+أبلغ مديرك بأي غياب طارئ."
+hr_leave_policy,سياسة الإجازات,ar,hr,الأسئلة الشائعة,"{'question': 'كيف أطلب إجازة سنوية؟', 'answer': 'قدّم طلبًا عبر نظام الموارد البشرية وانتظر موافقة المدير.'}
+{'question': 'هل يمكنني إلغاء طلب الإجازة؟', 'answer': 'نعم، إذا لم تتم الموافقة عليه أو حسب سياسة الشركة.'}
+{'question': 'هل أحتاج إلى تقرير طبي للإجازة المرضية؟', 'answer': 'قد يتطلب الأمر تقريرًا طبيًا حسب سياسة الشركة.'}"
+hr_onboarding,برنامج تهيئة الموظفين الجدد,ar,hr,نظرة عامة,يساعد برنامج تهيئة الموظفين الجدد على تعريف الموظف بالشركة وأنظمتها وسياساتها وبيئة العمل، مما يضمن انتقالًا سلسًا إلى وظيفته الجديدة.
+hr_onboarding,برنامج تهيئة الموظفين الجدد,ar,hr,خطوات التهيئة,"استكمال مستندات التوظيف.
+استلام حسابات العمل والأجهزة.
+حضور جلسة التعريف بالشركة.
+التعرف على المدير وفريق العمل.
+إكمال الدورات التدريبية الإلزامية.
+مراجعة سياسات الشركة."
+hr_onboarding,برنامج تهيئة الموظفين الجدد,ar,hr,المستندات المطلوبة,"هوية شخصية سارية.
+عقد العمل.
+بيانات الحساب البنكي.
+بيانات شخص للطوارئ.
+نماذج التأمين أو الضرائب عند الحاجة."
+hr_onboarding,برنامج تهيئة الموظفين الجدد,ar,hr,مسؤوليات الموظف,"استكمال جميع النماذج المطلوبة.
+حضور جلسات التهيئة.
+قراءة سياسات الشركة.
+طرح الأسئلة عند الحاجة."
+hr_onboarding,برنامج تهيئة الموظفين الجدد,ar,hr,أفضل الممارسات,"إنهاء جميع مهام التهيئة في الوقت المحدد.
+تحديث معلومات الاتصال باستمرار.
+المشاركة الفعالة في جلسات التعريف.
+الاطلاع على الوثائق الداخلية بشكل دوري."
+hr_onboarding,برنامج تهيئة الموظفين الجدد,ar,hr,الأسئلة الشائعة,"{'question': 'متى يبدأ برنامج التهيئة؟', 'answer': 'عادةً يبدأ في أول يوم عمل للموظف.'}
+{'question': 'مع من أتواصل إذا كان لدي سؤال؟', 'answer': 'تواصل مع قسم الموارد البشرية أو مديرك المباشر.'}
+{'question': 'ماذا أفعل إذا كان ينقصني أحد المستندات؟', 'answer': 'أبلغ قسم الموارد البشرية بأقرب وقت للحصول على التعليمات.'}"
+hr_payroll,الرواتب وكشوف الرواتب,ar,hr,نظرة عامة,تشمل الرواتب الراتب الأساسي، والبدلات، والعمل الإضافي، والمكافآت، والخصومات، ويتم صرفها وفق جدول الرواتب المعتمد في الشركة.
+hr_payroll,الرواتب وكشوف الرواتب,ar,hr,مكونات الراتب,"الراتب الأساسي
+البدلات
+العمل الإضافي
+المكافآت
+الضرائب
+الخصومات التأمينية"
+hr_payroll,الرواتب وكشوف الرواتب,ar,hr,المشكلات الشائعة,"عدم نزول الراتب
+خطأ في مبلغ الراتب
+عدم احتساب العمل الإضافي
+خصومات غير صحيحة
+عدم توفر كشف الراتب"
+hr_payroll,الرواتب وكشوف الرواتب,ar,hr,إجراءات الرواتب,"تتم معالجة الرواتب شهريًا.
+يستلم الموظف كشف راتب إلكتروني.
+يجب إبلاغ الموارد البشرية بأي مشكلة.
+يتم تحويل الراتب إلى الحساب البنكي المسجل."
+hr_payroll,الرواتب وكشوف الرواتب,ar,hr,أفضل الممارسات,"راجع كشف الراتب كل شهر.
+أبلغ عن أي خطأ فورًا.
+حدّث بياناتك البنكية عند الحاجة."
+hr_payroll,الرواتب وكشوف الرواتب,ar,hr,الأسئلة الشائعة,"{'question': 'متى يتم صرف الراتب؟', 'answer': 'يتم صرف الرواتب حسب جدول الرواتب الشهري المعتمد في الشركة.'}
+{'question': 'وجدت خصمًا غير صحيح، ماذا أفعل؟', 'answer': 'تواصل مع قسم الموارد البشرية وأرفق كشف الراتب.'}
+{'question': 'كيف أحصل على كشف الراتب؟', 'answer': 'يمكنك تنزيله من نظام الموارد البشرية.'}"
+hr_resignation,إجراءات الاستقالة وإنهاء الخدمة,ar,hr,نظرة عامة,يجب على الموظف الذي يرغب في الاستقالة الالتزام بسياسة الشركة، وتقديم طلب استقالة رسمي، وإكمال فترة الإشعار، وإنهاء جميع إجراءات إخلاء الطرف.
+hr_resignation,إجراءات الاستقالة وإنهاء الخدمة,ar,hr,خطوات الاستقالة,"تقديم خطاب استقالة رسمي.
+إبلاغ المدير المباشر.
+إكمال فترة الإشعار.
+إعادة جميع ممتلكات الشركة.
+حضور مقابلة إنهاء الخدمة.
+استكمال إجراءات إخلاء الطرف."
+hr_resignation,إجراءات الاستقالة وإنهاء الخدمة,ar,hr,فترة الإشعار,"تحدد فترة الإشعار وفقًا لعقد العمل.
+يجب إنهاء المهام الموكلة قبل المغادرة.
+أي استثناء يتطلب موافقة الإدارة."
+hr_resignation,إجراءات الاستقالة وإنهاء الخدمة,ar,hr,تسوية المستحقات,"تصرف المستحقات المالية وفق سياسة الشركة.
+قد يتم احتساب رصيد الإجازات غير المستخدم حسب النظام.
+يجب إعادة جميع ممتلكات الشركة قبل إكمال إخلاء الطرف."
+hr_resignation,إجراءات الاستقالة وإنهاء الخدمة,ar,hr,أفضل الممارسات,"قدّم الاستقالة بطريقة احترافية.
+التزم بفترة الإشعار.
+وثّق جميع الأعمال غير المكتملة.
+ساهم في نقل المعرفة للموظف البديل."
+hr_resignation,إجراءات الاستقالة وإنهاء الخدمة,ar,hr,الأسئلة الشائعة,"{'question': 'كيف أقدم استقالتي؟', 'answer': 'قدّم خطاب استقالة رسمي لمديرك المباشر واتبع إجراءات الموارد البشرية.'}
+{'question': 'هل يجب أن أكمل فترة الإشعار؟', 'answer': 'نعم، إلا إذا تمت الموافقة على استثناء وفق سياسة الشركة.'}
+{'question': 'متى أحصل على مستحقاتي النهائية؟', 'answer': 'بعد استكمال جميع إجراءات إخلاء الطرف ووفق سياسة الشركة.'}"
+hr_attendance,Employee Attendance Policy,en,hr,Overview,Employees are expected to follow the company's official working hours and attendance policies. Attendance is recorded through the attendance management system.
+hr_attendance,Employee Attendance Policy,en,hr,Working Hours,"Employees must arrive on time.
+Attendance is recorded electronically.
+Working hours are determined by company policy.
+Overtime requires manager approval."
+hr_attendance,Employee Attendance Policy,en,hr,Common Attendance Issues,"Late arrival
+Missed check-in
+Missed check-out
+Unplanned absence
+Attendance record mismatch"
+hr_attendance,Employee Attendance Policy,en,hr,Attendance Procedure,"Check in at the beginning of the workday.
+Check out before leaving.
+Report attendance issues to HR.
+Notify your manager if you will be absent."
+hr_attendance,Employee Attendance Policy,en,hr,Best Practices,"Arrive on time.
+Always use the attendance system.
+Inform your manager about delays.
+Review your attendance records regularly."
+hr_attendance,Employee Attendance Policy,en,hr,FAQ,"{'question': 'I forgot to check in. What should I do?', 'answer': 'Notify HR or your manager as soon as possible.'}
+{'question': 'Can HR correct my attendance record?', 'answer': 'Yes, after verification according to company policy.'}
+{'question': 'Who approves overtime?', 'answer': 'Your direct manager.'}"
+hr_employee_benefits,Employee Benefits,en,hr,Overview,"Employee benefits are additional advantages provided by the company beyond the employee's salary. Benefits may include health insurance, allowances, wellness programs, and other company-specific incentives."
+hr_employee_benefits,Employee Benefits,en,hr,Available Benefits,"Medical Insurance
+Life Insurance
+Transportation Allowance
+Housing Allowance
+Training Programs
+Employee Discounts
+Wellness Programs"
+hr_employee_benefits,Employee Benefits,en,hr,Eligibility,"Benefits may vary depending on employment type.
+Some benefits become available after the probation period.
+Certain benefits require HR approval."
+hr_employee_benefits,Employee Benefits,en,hr,How to Request Benefits,"Submit your request through the HR portal.
+Attach any required documents.
+Wait for HR review and approval."
+hr_employee_benefits,Employee Benefits,en,hr,Best Practices,"Review available benefits regularly.
+Keep your personal information updated.
+Contact HR if you have questions."
+hr_employee_benefits,Employee Benefits,en,hr,FAQ,"{'question': 'Am I eligible for medical insurance?', 'answer': 'Eligibility depends on company policy and your employment status.'}
+{'question': 'How can I update my insurance information?', 'answer': 'Submit the update through the HR portal or contact HR.'}
+{'question': 'Can I request additional benefits?', 'answer': 'Some additional benefits may be available depending on company policy.'}"
+hr_leave_policy,Employee Leave Policy,en,hr,Overview,Employees are entitled to different types of leave according to company policy. Leave requests should be submitted through the HR system and approved by the employee's direct manager before the leave begins.
+hr_leave_policy,Employee Leave Policy,en,hr,Leave Types,"Annual Leave
+Sick Leave
+Emergency Leave
+Maternity Leave
+Paternity Leave
+Unpaid Leave"
+hr_leave_policy,Employee Leave Policy,en,hr,Eligibility,"Employees are eligible for annual leave according to company policy.
+Sick leave requires supporting medical documentation when applicable.
+Emergency leave may require manager approval."
+hr_leave_policy,Employee Leave Policy,en,hr,Leave Request Process,"Submit the leave request through the HR system.
+Specify the leave type.
+Select the leave dates.
+Attach supporting documents if required.
+Wait for manager approval before taking leave."
+hr_leave_policy,Employee Leave Policy,en,hr,Best Practices,"Submit leave requests as early as possible.
+Check your leave balance before submitting.
+Inform your manager about urgent absences."
+hr_leave_policy,Employee Leave Policy,en,hr,FAQ,"{'question': 'How do I apply for annual leave?', 'answer': 'Submit a leave request through the HR system and wait for manager approval.'}
+{'question': 'Can I cancel my leave request?', 'answer': 'Yes, if it has not been approved yet or according to company policy.'}
+{'question': 'Do I need a medical report for sick leave?', 'answer': 'Depending on company policy, a medical certificate may be required.'}"
+hr_onboarding,Employee Onboarding Process,en,hr,Overview,"The onboarding process helps new employees become familiar with the company, its policies, systems, and work environment. It ensures a smooth transition into their new role."
+hr_onboarding,Employee Onboarding Process,en,hr,Onboarding Steps,"Complete employment documents.
+Receive company credentials and equipment.
+Attend orientation sessions.
+Meet your manager and team.
+Complete mandatory training.
+Review company policies."
+hr_onboarding,Employee Onboarding Process,en,hr,Required Documents,"Government-issued ID
+Employment contract
+Bank account information
+Emergency contact details
+Tax or insurance forms (if applicable)"
+hr_onboarding,Employee Onboarding Process,en,hr,Employee Responsibilities,"Complete all required forms.
+Attend onboarding sessions.
+Review company policies.
+Ask questions whenever clarification is needed."
+hr_onboarding,Employee Onboarding Process,en,hr,Best Practices,"Complete all onboarding tasks on time.
+Keep your contact information updated.
+Participate actively in orientation sessions.
+Review internal documentation regularly."
+hr_onboarding,Employee Onboarding Process,en,hr,FAQ,"{'question': 'When does onboarding begin?', 'answer': 'The onboarding process usually begins on your first working day.'}
+{'question': 'Who should I contact if I have onboarding questions?', 'answer': 'Contact the HR department or your direct manager.'}
+{'question': 'What if I am missing a required document?', 'answer': 'Inform HR as soon as possible so they can advise you.'}"
+hr_payroll,Payroll and Salary Information,en,hr,Overview,"Payroll covers employee salaries, allowances, deductions, overtime payments, bonuses, and payslips. Salaries are processed according to the company's payroll schedule."
+hr_payroll,Payroll and Salary Information,en,hr,Payroll Components,"Basic Salary
+Allowances
+Overtime
+Bonuses
+Tax Deductions
+Insurance Deductions"
+hr_payroll,Payroll and Salary Information,en,hr,Common Issues,"Salary not received
+Incorrect salary amount
+Missing overtime payment
+Incorrect deductions
+Payslip unavailable"
+hr_payroll,Payroll and Salary Information,en,hr,Payroll Procedure,"Payroll is processed monthly.
+Employees receive an electronic payslip.
+Report payroll issues to HR immediately.
+Salary is transferred to the registered bank account."
+hr_payroll,Payroll and Salary Information,en,hr,Best Practices,"Review your payslip every month.
+Report payroll discrepancies promptly.
+Keep your banking information updated."
+hr_payroll,Payroll and Salary Information,en,hr,FAQ,"{'question': 'When is salary paid?', 'answer': ""Salary is paid according to the company's monthly payroll schedule.""}
+{'question': 'I found an incorrect deduction.', 'answer': 'Contact HR with your payslip for review.'}
+{'question': 'How do I get my payslip?', 'answer': 'Payslips are available through the HR system.'}"
+hr_resignation,Employee Resignation Process,en,hr,Overview,"Employees who wish to resign should follow the company's resignation policy, submit a formal resignation request, complete the required notice period, and finish the offboarding process."
+hr_resignation,Employee Resignation Process,en,hr,Resignation Process,"Submit a formal resignation letter.
+Notify your direct manager.
+Complete the required notice period.
+Return all company assets.
+Attend the exit interview.
+Complete the final clearance process."
+hr_resignation,Employee Resignation Process,en,hr,Notice Period,"The notice period depends on the employment contract.
+Employees are expected to complete all assigned work before leaving.
+Any exceptions require management approval."
+hr_resignation,Employee Resignation Process,en,hr,Final Settlement,"Salary will be processed according to company policy.
+Unused leave balance may be included if applicable.
+Company property must be returned before final clearance."
+hr_resignation,Employee Resignation Process,en,hr,Best Practices,"Submit your resignation professionally.
+Provide sufficient notice.
+Document any unfinished work.
+Support knowledge transfer to your replacement."
+hr_resignation,Employee Resignation Process,en,hr,FAQ,"{'question': 'How do I resign?', 'answer': 'Submit a resignation letter to your manager and follow the HR resignation process.'}
+{'question': 'Do I have to complete the notice period?', 'answer': 'Yes, unless an exception is approved according to company policy.'}
+{'question': 'When will I receive my final settlement?', 'answer': 'It will be processed after completing the clearance procedure according to company policy.'}"
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,نظرة عامة,تُعد مشكلات تسجيل الدخول والوصول إلى الحساب من أكثر طلبات الدعم الفني شيوعًا، وتشمل نسيان كلمة المرور، وقفل الحساب، وفشل المصادقة، وانتهاء صلاحية كلمة المرور، ومشكلات التحقق متعدد العوامل (MFA).
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,المشكلات الشائعة,"نسيان كلمة المرور
+قفل الحساب
+اسم مستخدم أو كلمة مرور غير صحيحة
+انتهاء صلاحية كلمة المرور
+العودة المتكررة إلى صفحة تسجيل الدخول
+عدم وصول رمز التحقق
+انتهاء صلاحية رمز OTP
+تعطيل الحساب"
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,الأعراض,"عدم القدرة على تسجيل الدخول
+ظهور رسالة تفيد بأن اسم المستخدم أو كلمة المرور غير صحيحة
+ظهور رسالة تفيد بأن الحساب مقفل
+فشل عملية المصادقة
+انتهاء مهلة التحقق متعدد العوامل
+إعادة تحميل صفحة تسجيل الدخول بشكل متكرر"
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,الأسباب المحتملة,"إدخال كلمة مرور غير صحيحة
+انتهاء صلاحية كلمة المرور
+تجاوز الحد المسموح لمحاولات تسجيل الدخول
+تعطيل الحساب من قبل مسؤول النظام
+وجود مشكلة في الشبكة
+تعطل خدمة المصادقة
+عدم مزامنة جهاز التحقق متعدد العوامل"
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,خطوات استكشاف المشكلة,"تأكد من صحة اسم المستخدم.
+أعد تعيين كلمة المرور.
+امسح ذاكرة التخزين المؤقت وملفات تعريف الارتباط في المتصفح.
+تحقق من اتصال الإنترنت.
+تأكد من عمل جهاز أو تطبيق التحقق متعدد العوامل.
+انتظر عدة دقائق إذا تم قفل الحساب مؤقتًا بسبب كثرة المحاولات.
+تواصل مع مسؤول تقنية المعلومات إذا استمرت المشكلة."
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,أفضل الممارسات,"استخدم كلمة مرور قوية وفريدة.
+لا تشارك كلمة المرور مع أي شخص.
+فعّل التحقق متعدد العوامل (MFA).
+حدّث معلومات استرداد الحساب بشكل دوري."
+tech_password_access,إعادة تعيين كلمة المرور والوصول إلى الحساب,ar,technical,الأسئلة الشائعة,"{'question': 'نسيت كلمة المرور، ماذا أفعل؟', 'answer': 'استخدم بوابة إعادة تعيين كلمة المرور أو تواصل مع قسم الدعم الفني.'}
+{'question': 'تم قفل حسابي، كيف أستعيده؟', 'answer': 'انتظر حتى تنتهي مدة القفل أو اطلب من مسؤول النظام إعادة فتح الحساب.'}
+{'question': 'لم يصلني رمز التحقق (MFA)، ماذا أفعل؟', 'answer': 'تحقق من اتصال الإنترنت وتأكد من أن جهاز التحقق المسجل يعمل بشكل صحيح.'}"
+tech_email_issues,مشكلات البريد الإلكتروني واستكشاف الأخطاء,ar,technical,نظرة عامة,تشمل مشكلات البريد الإلكتروني تعذر إرسال أو استقبال الرسائل، وفشل مزامنة البريد، وأخطاء تسجيل الدخول، وتأخر وصول الرسائل، وعدم القدرة على تنزيل المرفقات، أو امتلاء صندوق البريد.
+tech_email_issues,مشكلات البريد الإلكتروني واستكشاف الأخطاء,ar,technical,المشكلات الشائعة,"تعذر إرسال البريد الإلكتروني
+تعذر استقبال البريد الإلكتروني
+امتلاء صندوق البريد
+فشل مزامنة البريد الإلكتروني
+عدم فتح Outlook
+تعذر تنزيل المرفقات
+انتقال الرسائل إلى البريد العشوائي
+تأخر وصول الرسائل"
+tech_email_issues,مشكلات البريد الإلكتروني واستكشاف الأخطاء,ar,technical,الأعراض,"بقاء الرسائل في صندوق الصادر
+عدم وصول رسائل جديدة
+طلب كلمة المرور بشكل متكرر في Outlook
+ظهور خطأ في المزامنة
+فشل تنزيل المرفقات
+ظهور تحذير امتلاء صندوق البريد"
+tech_email_issues,مشكلات البريد الإلكتروني واستكشاف الأخطاء,ar,technical,الأسباب المحتملة,"ضعف أو انقطاع اتصال الإنترنت
+بيانات تسجيل دخول غير صحيحة
+امتلاء مساحة صندوق البريد
+تعطل خادم البريد
+إصدار قديم من Outlook
+تلف ملف تعريف Outlook
+منع البريد بواسطة الجدار الناري أو برنامج مكافحة الفيروسات"
+tech_email_issues,مشكلات البريد الإلكتروني واستكشاف الأخطاء,ar,technical,خطوات استكشاف المشكلة,"تحقق من اتصال الإنترنت.
+أعد تشغيل Outlook أو برنامج البريد الإلكتروني.
+تأكد من صحة اسم المستخدم وكلمة المرور.
+احذف أو أرشف الرسائل إذا كان صندوق البريد ممتلئًا.
+تحقق من حالة خادم البريد.
+حدّث Outlook إلى أحدث إصدار.
+أعد تشغيل جهاز الكمبيوتر.
+تواصل مع قسم الدعم الفني إذا استمرت المشكلة."
+tech_email_issues,مشكلات البريد الإلكتروني واستكشاف الأخطاء,ar,technical,أفضل الممارسات,"قم بأرشفة الرسائل القديمة بشكل دوري.
+حافظ على مساحة كافية في صندوق البريد.
+لا تفتح المرفقات أو الروابط المشبوهة.
+فعّل التحقق متعدد العوامل (MFA).
+احرص على تحديث تطبيق البريد الإلكتروني باستمرار."
+tech_email_issues,مشكلات البريد الإلكتروني واستكشاف الأخطاء,ar,technical,الأسئلة الشائعة,"{'question': 'لا أستطيع إرسال البريد الإلكتروني، ماذا أفعل؟', 'answer': 'تحقق من اتصال الإنترنت، ومساحة صندوق البريد، وإعدادات خادم الإرسال (SMTP).'}
+{'question': 'لماذا لا تصلني رسائل جديدة؟', 'answer': 'تحقق من مجلد البريد العشوائي، ومساحة صندوق البريد، وحالة المزامنة.'}
+{'question': 'لماذا يطلب Outlook كلمة المرور باستمرار؟', 'answer': 'تأكد من صحة بيانات تسجيل الدخول أو تواصل مع قسم تقنية المعلومات لإعادة تعيين الحساب.'}"
+tech_mfa,مشكلات التحقق متعدد العوامل (MFA),ar,technical,نظرة عامة,يوفر التحقق متعدد العوامل (MFA) طبقة إضافية من الأمان من خلال طلب خطوة تحقق إضافية عند تسجيل الدخول. قد يواجه المستخدمون مشكلات في استلام رموز التحقق أو استخدام تطبيقات المصادقة أو إكمال عملية التحقق.
+tech_mfa,مشكلات التحقق متعدد العوامل (MFA),ar,technical,المشكلات الشائعة,"عدم وصول رمز التحقق
+انتهاء مهلة طلب التحقق
+تطبيق المصادقة لا يولد رموزًا
+فشل التحقق عبر الرسائل النصية
+عدم مزامنة الوقت
+فقدان الجهاز المسجل
+تعذر إكمال التحقق
+رفض طلب المصادقة"
+tech_mfa,مشكلات التحقق متعدد العوامل (MFA),ar,technical,الأعراض,"عدم القدرة على تسجيل الدخول
+انتهاء مهلة التحقق
+رمز تحقق غير صحيح
+عدم وصول طلب المصادقة
+تكرار فشل التحقق
+تعطل تطبيق المصادقة"
+tech_mfa,مشكلات التحقق متعدد العوامل (MFA),ar,technical,الأسباب المحتملة,"انقطاع اتصال الإنترنت
+عدم ضبط وقت الجهاز بشكل صحيح
+فقدان أو استبدال الهاتف
+تعطل تطبيق المصادقة
+تأخر وصول الرسائل النصية
+مشكلة في مزامنة الخادم
+إعدادات حساب غير صحيحة"
+tech_mfa,مشكلات التحقق متعدد العوامل (MFA),ar,technical,خطوات استكشاف المشكلة,"تحقق من اتصال الإنترنت.
+تأكد من ضبط وقت الهاتف تلقائيًا.
+أعد تشغيل تطبيق المصادقة.
+اطلب رمز تحقق جديد.
+تحقق من طريقة التحقق المسجلة.
+استخدم رموز الاسترداد الاحتياطية إن وجدت.
+تواصل مع قسم الدعم الفني إذا تعذر إكمال عملية التحقق."
+tech_mfa,مشكلات التحقق متعدد العوامل (MFA),ar,technical,أفضل الممارسات,"فعّل التحقق متعدد العوامل لجميع الحسابات.
+احتفظ بطريقة تحقق احتياطية.
+احفظ رموز الاسترداد في مكان آمن.
+لا تشارك رموز التحقق مع أي شخص.
+حدّث رقم هاتفك المسجل عند تغييره."
+tech_mfa,مشكلات التحقق متعدد العوامل (MFA),ar,technical,الأسئلة الشائعة,"{'question': 'لم يصلني رمز التحقق، ماذا أفعل؟', 'answer': 'اطلب رمزًا جديدًا وتأكد من اتصال الإنترنت أو شبكة الهاتف.'}
+{'question': 'فقدت الهاتف الذي يحتوي على تطبيق المصادقة.', 'answer': 'تواصل مع قسم تقنية المعلومات لإعادة تسجيل التحقق متعدد العوامل.'}
+{'question': 'يعرض تطبيق المصادقة رمزًا غير صحيح.', 'answer': 'تأكد من أن وقت الجهاز مضبوط تلقائيًا ومزامن بشكل صحيح.'}"
+tech_printer_issues,مشكلات الطابعة واستكشاف الأخطاء,ar,technical,نظرة عامة,تشمل مشكلات الطابعة تعذر الطباعة، وانحشار الورق، وتعطل الاتصال، وأخطاء تعريف الطابعة، وفشل المسح الضوئي، أو عدم توفر طابعة الشبكة.
+tech_printer_issues,مشكلات الطابعة واستكشاف الأخطاء,ar,technical,المشكلات الشائعة,"الطابعة غير متصلة
+تعذر الطباعة
+انحشار الورق
+توقف قائمة انتظار الطباعة
+تعطل الماسح الضوئي
+عدم وجود تعريف للطابعة
+ضعف جودة الطباعة
+عدم توفر طابعة الشبكة"
+tech_printer_issues,مشكلات الطابعة واستكشاف الأخطاء,ar,technical,الأعراض,"عدم استجابة الطابعة
+توقف الطباعة بشكل مفاجئ
+طباعة صفحات فارغة
+ظهور رسالة خطأ
+عدم اكتشاف الماسح الضوئي
+بقاء مهام الطباعة في قائمة الانتظار"
+tech_printer_issues,مشكلات الطابعة واستكشاف الأخطاء,ar,technical,الأسباب المحتملة,"الطابعة مطفأة
+مشكلة في اتصال الشبكة
+انحشار الورق
+تعريف الطابعة قديم
+نفاد الحبر أو مسحوق الطباعة
+فصل كابل USB
+تعطل خدمة Print Spooler"
+tech_printer_issues,مشكلات الطابعة واستكشاف الأخطاء,ar,technical,خطوات استكشاف المشكلة,"تأكد من تشغيل الطابعة.
+تحقق من اتصال الشبكة أو كابل USB.
+امسح قائمة انتظار الطباعة.
+أزل الورق العالق.
+أعد تشغيل الطابعة.
+حدّث أو أعد تثبيت تعريف الطابعة.
+أعد تشغيل الكمبيوتر.
+تواصل مع قسم الدعم الفني إذا استمرت المشكلة."
+tech_printer_issues,مشكلات الطابعة واستكشاف الأخطاء,ar,technical,أفضل الممارسات,"حافظ على تحديث تعريف الطابعة.
+استخدم حبراً أو مسحوق طباعة أصلياً.
+لا تملأ درج الورق أكثر من اللازم.
+أعد تشغيل الطابعة بشكل دوري.
+أبلغ عن الأعطال المتكررة."
+tech_printer_issues,مشكلات الطابعة واستكشاف الأخطاء,ar,technical,الأسئلة الشائعة,"{'question': 'لماذا تظهر الطابعة على أنها غير متصلة؟', 'answer': 'تحقق من اتصال الشبكة وأعد تشغيل الطابعة.'}
+{'question': 'مهام الطباعة لا تتحرك، ماذا أفعل؟', 'answer': 'امسح قائمة انتظار الطباعة وأعد تشغيل خدمة Print Spooler.'}
+{'question': 'الطابعة تطبع صفحات فارغة.', 'answer': 'تحقق من مستوى الحبر أو مسحوق الطباعة وتأكد من سلامة تعريف الطابعة.'}"
+tech_software_installation,تثبيت البرامج ومشكلات التطبيقات,ar,technical,نظرة عامة,تشمل مشكلات تثبيت البرامج فشل عملية التثبيت، وتعطل التطبيقات، وأخطاء الترخيص، وفشل التحديثات، أو فقدان المتطلبات اللازمة لتشغيل التطبيق.
+tech_software_installation,تثبيت البرامج ومشكلات التطبيقات,ar,technical,المشكلات الشائعة,"فشل تثبيت البرنامج
+التطبيق لا يفتح
+فشل تفعيل الترخيص
+فشل تحديث البرنامج
+عدم توفر صلاحيات كافية
+تعطل التطبيق بعد التشغيل
+تلف ملفات التثبيت
+عدم توفر المتطلبات اللازمة"
+tech_software_installation,تثبيت البرامج ومشكلات التطبيقات,ar,technical,الأعراض,"إغلاق نافذة التثبيت بشكل مفاجئ
+ظهور رسالة خطأ أثناء التثبيت
+تعطل التطبيق مباشرة بعد التشغيل
+خطأ في الترخيص
+فقدان ملفات DLL
+توقف التحديث"
+tech_software_installation,تثبيت البرامج ومشكلات التطبيقات,ar,technical,الأسباب المحتملة,"عدم توفر صلاحيات المسؤول
+ملفات تثبيت تالفة
+منع برنامج مكافحة الفيروسات للتثبيت
+عدم توافق مع نظام التشغيل
+عدم تثبيت المتطلبات الأساسية
+امتلاء مساحة التخزين
+انقطاع اتصال الإنترنت"
+tech_software_installation,تثبيت البرامج ومشكلات التطبيقات,ar,technical,خطوات استكشاف المشكلة,"شغّل ملف التثبيت كمسؤول (Run as Administrator).
+تحقق من توفر مساحة كافية على القرص.
+أعد تنزيل ملف التثبيت إذا كان تالفًا.
+عطّل برنامج مكافحة الفيروسات مؤقتًا إذا سمح قسم تقنية المعلومات بذلك.
+ثبّت جميع المتطلبات الأساسية.
+أعد تشغيل الجهاز بعد انتهاء التثبيت.
+تواصل مع قسم الدعم الفني إذا استمرت المشكلة."
+tech_software_installation,تثبيت البرامج ومشكلات التطبيقات,ar,technical,أفضل الممارسات,"قم بتثبيت البرامج من مصادر معتمدة فقط.
+حافظ على تحديث التطبيقات.
+لا تثبت برامج غير مصرح بها.
+تحقق من صلاحية الترخيص.
+أعد تشغيل الجهاز بعد تثبيت البرامج المهمة."
+tech_software_installation,تثبيت البرامج ومشكلات التطبيقات,ar,technical,الأسئلة الشائعة,"{'question': 'فشل تثبيت البرنامج، ماذا أفعل؟', 'answer': 'شغّل ملف التثبيت كمسؤول وتأكد من تثبيت جميع المتطلبات الأساسية.'}
+{'question': 'التطبيق يتعطل بعد تشغيله.', 'answer': 'حدّث التطبيق أو أعد تثبيته إذا لزم الأمر.'}
+{'question': 'لا يمكن تفعيل الترخيص.', 'answer': 'تحقق من مفتاح الترخيص أو تواصل مع مسؤول تقنية المعلومات.'}"
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,نظرة عامة,يتيح VPN للموظفين الوصول الآمن إلى موارد الشركة من خارج المكتب. تشمل المشكلات الشائعة فشل الاتصال، أو أخطاء المصادقة، أو انقطاع الاتصال بشكل متكرر.
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,المشكلات الشائعة,"تعذر الاتصال بالـ VPN
+انقطاع الاتصال بشكل متكرر
+فشل المصادقة
+انتهاء مهلة الاتصال
+بطء الاتصال
+الاتصال بالـ VPN دون الوصول إلى موارد الشركة"
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,الأعراض,"فشل تسجيل الدخول إلى VPN
+انتهاء مهلة الاتصال
+عدم الوصول إلى أنظمة الشركة
+انقطاع الاتصال كل بضع دقائق
+عدم القدرة على الوصول إلى الموارد الداخلية"
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,الأسباب المحتملة,"اسم مستخدم أو كلمة مرور غير صحيحة
+ضعف اتصال الإنترنت
+انتهاء صلاحية شهادة VPN
+قيود من جدار الحماية
+تعطل خادم VPN
+مشكلة في إعدادات DNS"
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,خطوات استكشاف المشكلة,"تحقق من اتصال الإنترنت.
+أعد تشغيل تطبيق VPN.
+تأكد من اسم المستخدم وكلمة المرور.
+أعد المحاولة بعد بضع دقائق.
+حدّث تطبيق VPN إلى أحدث إصدار.
+أعد تشغيل الجهاز.
+تواصل مع قسم تقنية المعلومات إذا استمرت المشكلة."
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,أفضل الممارسات,"احرص على تحديث تطبيق VPN باستمرار.
+افصل اتصال VPN عند الانتهاء من العمل.
+فعّل التحقق متعدد العوامل (MFA).
+لا تشارك بيانات تسجيل الدخول الخاصة بالـ VPN."
+tech_vpn,الاتصال بالـ VPN واستكشاف المشكلات,ar,technical,الأسئلة الشائعة,"{'question': 'ينقطع اتصال VPN كل بضع دقائق، ماذا أفعل؟', 'answer': 'تحقق من اتصال الإنترنت وأعد تشغيل تطبيق VPN.'}
+{'question': 'ظهرت رسالة فشل المصادقة.', 'answer': 'تأكد من اسم المستخدم وكلمة المرور ورمز التحقق.'}
+{'question': 'لا أستطيع الوصول إلى أنظمة الشركة.', 'answer': 'أعد الاتصال بالـ VPN وتحقق من حالة الشبكة.'}"
+tech_password_access,Password Reset and Account Access,en,technical,Overview,"Account access issues are among the most common IT support requests. They may involve forgotten passwords, locked accounts, authentication failures, password expiration, or multi-factor authentication (MFA) problems."
+tech_password_access,Password Reset and Account Access,en,technical,Common Issues,"Forgotten password
+Account locked
+Incorrect username or password
+Password expired
+Login loop
+MFA code not received
+OTP expired
+Account disabled"
+tech_password_access,Password Reset and Account Access,en,technical,Symptoms,"Unable to log in
+Invalid credentials
+Account locked
+Authentication failed
+MFA timeout
+Login page refreshes continuously"
+tech_password_access,Password Reset and Account Access,en,technical,Possible Causes,"Incorrect password
+Password expiration
+Too many failed login attempts
+Disabled account
+Network issues
+Identity provider unavailable
+MFA device not synchronized"
+tech_password_access,Password Reset and Account Access,en,technical,Troubleshooting,"Verify your username.
+Reset your password.
+Clear browser cache and cookies.
+Check your internet connection.
+Verify your MFA device.
+Wait a few minutes if your account has been temporarily locked.
+Contact the IT Administrator if the issue persists."
+tech_password_access,Password Reset and Account Access,en,technical,Best Practices,"Use a strong and unique password.
+Never share your password.
+Enable multi-factor authentication (MFA).
+Keep your recovery information up to date."
+tech_password_access,Password Reset and Account Access,en,technical,FAQ,"{'question': 'I forgot my password.', 'answer': 'Use the password reset portal or contact the IT Help Desk.'}
+{'question': 'My account is locked.', 'answer': 'Wait until the lockout period ends or ask your IT Administrator to unlock your account.'}
+{'question': ""I didn't receive the MFA code."", 'answer': 'Check your internet connection and verify that your registered MFA device is working correctly.'}"
+tech_email_issues,Email Issues and Troubleshooting,en,technical,Overview,"Email issues may include problems sending or receiving messages, mailbox synchronization failures, authentication errors, delayed emails, missing attachments, or mailbox storage limitations."
+tech_email_issues,Email Issues and Troubleshooting,en,technical,Common Issues,"Unable to send emails
+Unable to receive emails
+Mailbox full
+Email synchronization failed
+Outlook not opening
+Email attachment cannot be downloaded
+Emails going to spam
+Delayed email delivery"
+tech_email_issues,Email Issues and Troubleshooting,en,technical,Symptoms,"Emails remain in Outbox
+No new emails received
+Outlook repeatedly asks for password
+Synchronization error
+Attachment download failed
+Mailbox storage warning"
+tech_email_issues,Email Issues and Troubleshooting,en,technical,Possible Causes,"Internet connection problems
+Incorrect account credentials
+Mailbox storage limit reached
+Mail server outage
+Outdated Outlook application
+Corrupted Outlook profile
+Firewall or antivirus blocking email"
+tech_email_issues,Email Issues and Troubleshooting,en,technical,Troubleshooting,"Verify your internet connection.
+Restart Outlook or your email client.
+Check your username and password.
+Free mailbox storage if it is full.
+Verify mail server status.
+Update Outlook to the latest version.
+Restart your computer.
+Contact IT Support if the problem persists."
+tech_email_issues,Email Issues and Troubleshooting,en,technical,Best Practices,"Archive old emails regularly.
+Keep your mailbox below the storage limit.
+Avoid opening suspicious attachments.
+Enable multi-factor authentication.
+Update your email application regularly."
+tech_email_issues,Email Issues and Troubleshooting,en,technical,FAQ,"{'question': 'I cannot send emails.', 'answer': 'Verify your internet connection, mailbox quota, and SMTP settings.'}
+{'question': 'Why am I not receiving emails?', 'answer': 'Check your spam folder, mailbox storage, and synchronization status.'}
+{'question': 'Outlook keeps asking for my password.', 'answer': 'Verify your credentials or contact IT to reset your account.'}"
+tech_mfa,Multi-Factor Authentication (MFA) Issues,en,technical,Overview,"Multi-Factor Authentication (MFA) provides an additional layer of security by requiring a second verification step during login. Users may experience issues receiving verification codes, approving authentication requests, or using authentication applications."
+tech_mfa,Multi-Factor Authentication (MFA) Issues,en,technical,Common Issues,"Verification code not received
+Authentication request expired
+Authenticator app not generating codes
+SMS verification failed
+Time synchronization issue
+Lost registered device
+Unable to complete verification
+Authentication request rejected"
+tech_mfa,Multi-Factor Authentication (MFA) Issues,en,technical,Symptoms,"Cannot complete login
+Verification timeout
+Invalid verification code
+Authentication request not received
+Repeated verification failures
+Authentication application unavailable"
+tech_mfa,Multi-Factor Authentication (MFA) Issues,en,technical,Possible Causes,"No internet connection
+Incorrect device time
+Lost or replaced mobile device
+Authenticator application malfunction
+SMS delivery delay
+Server synchronization issues
+Incorrect account configuration"
+tech_mfa,Multi-Factor Authentication (MFA) Issues,en,technical,Troubleshooting,"Verify your internet connection.
+Ensure your mobile device time is set automatically.
+Restart the authentication application.
+Request a new verification code.
+Verify your registered authentication method.
+Use backup codes if available.
+Contact IT Support if MFA cannot be completed."
+tech_mfa,Multi-Factor Authentication (MFA) Issues,en,technical,Best Practices,"Enable MFA for all accounts.
+Keep backup authentication methods available.
+Store backup recovery codes securely.
+Never share verification codes.
+Update your registered phone number when it changes."
+tech_mfa,Multi-Factor Authentication (MFA) Issues,en,technical,FAQ,"{'question': ""I didn't receive the verification code."", 'answer': 'Request a new code and verify your internet or mobile connection.'}
+{'question': 'I lost my authentication device.', 'answer': 'Contact IT Support to reset your MFA registration.'}
+{'question': 'The authenticator app shows an invalid code.', 'answer': 'Ensure your device time is synchronized automatically.'}"
+tech_printer_issues,Printer Issues and Troubleshooting,en,technical,Overview,"Printer issues may include printing failures, paper jams, offline printers, connection problems, driver errors, or scanning failures."
+tech_printer_issues,Printer Issues and Troubleshooting,en,technical,Common Issues,"Printer offline
+Unable to print
+Paper jam
+Printer queue stuck
+Scanner not working
+Printer driver missing
+Poor print quality
+Network printer unavailable"
+tech_printer_issues,Printer Issues and Troubleshooting,en,technical,Symptoms,"Printer does not respond
+Printing stops unexpectedly
+Blank pages
+Error message displayed
+Scanner cannot be detected
+Jobs remain in print queue"
+tech_printer_issues,Printer Issues and Troubleshooting,en,technical,Possible Causes,"Printer is powered off
+Network connection problem
+Paper jam
+Outdated printer driver
+Low ink or toner
+Disconnected USB cable
+Print spooler service failure"
+tech_printer_issues,Printer Issues and Troubleshooting,en,technical,Troubleshooting,"Ensure the printer is powered on.
+Check the network or USB connection.
+Clear the print queue.
+Remove any paper jam.
+Restart the printer.
+Update or reinstall the printer driver.
+Restart your computer.
+Contact IT Support if the issue persists."
+tech_printer_issues,Printer Issues and Troubleshooting,en,technical,Best Practices,"Keep printer drivers updated.
+Use genuine ink or toner.
+Avoid overloading paper trays.
+Restart printers periodically.
+Report recurring printer errors."
+tech_printer_issues,Printer Issues and Troubleshooting,en,technical,FAQ,"{'question': 'Why is my printer offline?', 'answer': 'Check the network connection and restart the printer.'}
+{'question': 'My print jobs are stuck.', 'answer': 'Clear the print queue and restart the Print Spooler service.'}
+{'question': 'The printer prints blank pages.', 'answer': 'Check ink or toner levels and verify the printer driver.'}"
+tech_software_installation,Software Installation and Application Issues,en,technical,Overview,"Software installation issues include failed installations, application crashes, licensing problems, update failures, or missing application dependencies."
+tech_software_installation,Software Installation and Application Issues,en,technical,Common Issues,"Installation failed
+Application not opening
+License activation failed
+Software update failed
+Missing required permissions
+Application crashes after launch
+Corrupted installation
+Missing dependencies"
+tech_software_installation,Software Installation and Application Issues,en,technical,Symptoms,"Setup wizard closes unexpectedly
+Error during installation
+Application crashes immediately
+License error
+Missing DLL files
+Update stuck"
+tech_software_installation,Software Installation and Application Issues,en,technical,Possible Causes,"Insufficient permissions
+Corrupted installer
+Antivirus blocking installation
+Operating system incompatibility
+Missing prerequisites
+Disk storage is full
+Network interruption"
+tech_software_installation,Software Installation and Application Issues,en,technical,Troubleshooting,"Run the installer as Administrator.
+Verify available disk space.
+Download the installer again if corrupted.
+Temporarily disable antivirus if approved by IT.
+Install all required dependencies.
+Restart the computer after installation.
+Contact IT Support if installation continues to fail."
+tech_software_installation,Software Installation and Application Issues,en,technical,Best Practices,"Install software only from approved sources.
+Keep applications updated.
+Avoid installing unauthorized software.
+Always verify software licenses.
+Restart the device after major installations."
+tech_software_installation,Software Installation and Application Issues,en,technical,FAQ,"{'question': 'The installation failed. What should I do?', 'answer': 'Run the installer as Administrator and verify that all prerequisites are installed.'}
+{'question': 'The application crashes after opening.', 'answer': 'Update the application and reinstall it if necessary.'}
+{'question': 'The license cannot be activated.', 'answer': 'Verify your license key or contact the IT Administrator.'}"
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Overview,"A Virtual Private Network (VPN) allows employees to securely access company resources from remote locations. VPN issues usually involve connection failures, authentication errors, or unstable connectivity."
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Common Issues,"Unable to connect to VPN
+VPN disconnects frequently
+Authentication failed
+VPN timeout
+Slow VPN connection
+VPN connected but no internet access"
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Symptoms,"VPN login fails
+Connection timeout
+Remote resources cannot be accessed
+VPN disconnects every few minutes
+Unable to reach company systems"
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Possible Causes,"Incorrect username or password
+Internet connection problems
+Expired VPN certificate
+Firewall restrictions
+VPN server outage
+DNS configuration issues"
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Troubleshooting,"Verify your internet connection.
+Restart the VPN client.
+Check your username and password.
+Reconnect after a few minutes.
+Update the VPN application.
+Restart your computer.
+Contact IT if the problem continues."
+tech_vpn,VPN Connection and Troubleshooting,en,technical,Best Practices,"Keep the VPN client updated.
+Always disconnect the VPN when not in use.
+Use MFA whenever available.
+Do not share VPN credentials."
+tech_vpn,VPN Connection and Troubleshooting,en,technical,FAQ,"{'question': 'My VPN disconnects every few minutes.', 'answer': 'Check your internet connection and restart the VPN client.'}
+{'question': 'Authentication failed.', 'answer': 'Verify your username, password, and MFA.'}
+{'question': 'I cannot access company resources.', 'answer': 'Reconnect to the VPN and verify your network connectivity.'}"

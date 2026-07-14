@@ -1,0 +1,89 @@
+{
+    "id": "hr_leave_policy",
+    "title": "Employee Leave Policy",
+    "language": "en",
+    "category": "hr",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "leave",
+      "vacation",
+      "annual leave",
+      "sick leave",
+      "hr",
+      "absence"
+    ],
+    "keywords": [
+      "leave request",
+      "annual leave",
+      "vacation",
+      "sick leave",
+      "personal leave",
+      "leave balance",
+      "holiday",
+      "day off",
+      "time off",
+      "leave approval",
+      "absence"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Employees are entitled to different types of leave according to company policy. Leave requests should be submitted through the HR system and approved by the employee's direct manager before the leave begins."
+      },
+      {
+        "title": "Leave Types",
+        "content": [
+          "Annual Leave",
+          "Sick Leave",
+          "Emergency Leave",
+          "Maternity Leave",
+          "Paternity Leave",
+          "Unpaid Leave"
+        ]
+      },
+      {
+        "title": "Eligibility",
+        "content": [
+          "Employees are eligible for annual leave according to company policy.",
+          "Sick leave requires supporting medical documentation when applicable.",
+          "Emergency leave may require manager approval."
+        ]
+      },
+      {
+        "title": "Leave Request Process",
+        "content": [
+          "Submit the leave request through the HR system.",
+          "Specify the leave type.",
+          "Select the leave dates.",
+          "Attach supporting documents if required.",
+          "Wait for manager approval before taking leave."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Submit leave requests as early as possible.",
+          "Check your leave balance before submitting.",
+          "Inform your manager about urgent absences."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "How do I apply for annual leave?",
+            "answer": "Submit a leave request through the HR system and wait for manager approval."
+          },
+          {
+            "question": "Can I cancel my leave request?",
+            "answer": "Yes, if it has not been approved yet or according to company policy."
+          },
+          {
+            "question": "Do I need a medical report for sick leave?",
+            "answer": "Depending on company policy, a medical certificate may be required."
+          }
+        ]
+      }
+    ]
+  }
