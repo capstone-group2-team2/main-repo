@@ -1,0 +1,87 @@
+{
+    "id": "hr_resignation",
+    "title": "Employee Resignation Process",
+    "language": "en",
+    "category": "hr",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "resignation",
+      "offboarding",
+      "notice period",
+      "exit interview",
+      "employment",
+      "hr"
+    ],
+    "keywords": [
+      "resignation",
+      "quit job",
+      "notice period",
+      "last working day",
+      "exit interview",
+      "offboarding",
+      "resignation letter",
+      "employment termination",
+      "leave company",
+      "final settlement"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Employees who wish to resign should follow the company's resignation policy, submit a formal resignation request, complete the required notice period, and finish the offboarding process."
+      },
+      {
+        "title": "Resignation Process",
+        "content": [
+          "Submit a formal resignation letter.",
+          "Notify your direct manager.",
+          "Complete the required notice period.",
+          "Return all company assets.",
+          "Attend the exit interview.",
+          "Complete the final clearance process."
+        ]
+      },
+      {
+        "title": "Notice Period",
+        "content": [
+          "The notice period depends on the employment contract.",
+          "Employees are expected to complete all assigned work before leaving.",
+          "Any exceptions require management approval."
+        ]
+      },
+      {
+        "title": "Final Settlement",
+        "content": [
+          "Salary will be processed according to company policy.",
+          "Unused leave balance may be included if applicable.",
+          "Company property must be returned before final clearance."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Submit your resignation professionally.",
+          "Provide sufficient notice.",
+          "Document any unfinished work.",
+          "Support knowledge transfer to your replacement."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "How do I resign?",
+            "answer": "Submit a resignation letter to your manager and follow the HR resignation process."
+          },
+          {
+            "question": "Do I have to complete the notice period?",
+            "answer": "Yes, unless an exception is approved according to company policy."
+          },
+          {
+            "question": "When will I receive my final settlement?",
+            "answer": "It will be processed after completing the clearance procedure according to company policy."
+          }
+        ]
+      }
+    ]
+  }

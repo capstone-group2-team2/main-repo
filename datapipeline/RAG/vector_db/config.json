@@ -1,0 +1,7 @@
+{
+    "embedding_model": "BAAI/bge-m3",
+    "dimension": 1024,
+    "normalize_embeddings": true,
+    "index_type": "IndexFlatIP",
+    "knowledge_base_version": "1.0"
+}

@@ -1,0 +1,111 @@
+{
+    "id": "tech_mfa",
+    "title": "Multi-Factor Authentication (MFA) Issues",
+    "language": "en",
+    "category": "technical",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "mfa",
+      "2fa",
+      "authentication",
+      "security",
+      "otp",
+      "verification"
+    ],
+    "keywords": [
+      "mfa",
+      "2fa",
+      "otp",
+      "verification code",
+      "authentication app",
+      "google authenticator",
+      "microsoft authenticator",
+      "sms code",
+      "cannot verify",
+      "mfa failed",
+      "authentication failed",
+      "verification timeout"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Multi-Factor Authentication (MFA) provides an additional layer of security by requiring a second verification step during login. Users may experience issues receiving verification codes, approving authentication requests, or using authentication applications."
+      },
+      {
+        "title": "Common Issues",
+        "content": [
+          "Verification code not received",
+          "Authentication request expired",
+          "Authenticator app not generating codes",
+          "SMS verification failed",
+          "Time synchronization issue",
+          "Lost registered device",
+          "Unable to complete verification",
+          "Authentication request rejected"
+        ]
+      },
+      {
+        "title": "Symptoms",
+        "content": [
+          "Cannot complete login",
+          "Verification timeout",
+          "Invalid verification code",
+          "Authentication request not received",
+          "Repeated verification failures",
+          "Authentication application unavailable"
+        ]
+      },
+      {
+        "title": "Possible Causes",
+        "content": [
+          "No internet connection",
+          "Incorrect device time",
+          "Lost or replaced mobile device",
+          "Authenticator application malfunction",
+          "SMS delivery delay",
+          "Server synchronization issues",
+          "Incorrect account configuration"
+        ]
+      },
+      {
+        "title": "Troubleshooting",
+        "content": [
+          "Verify your internet connection.",
+          "Ensure your mobile device time is set automatically.",
+          "Restart the authentication application.",
+          "Request a new verification code.",
+          "Verify your registered authentication method.",
+          "Use backup codes if available.",
+          "Contact IT Support if MFA cannot be completed."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Enable MFA for all accounts.",
+          "Keep backup authentication methods available.",
+          "Store backup recovery codes securely.",
+          "Never share verification codes.",
+          "Update your registered phone number when it changes."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "I didn't receive the verification code.",
+            "answer": "Request a new code and verify your internet or mobile connection."
+          },
+          {
+            "question": "I lost my authentication device.",
+            "answer": "Contact IT Support to reset your MFA registration."
+          },
+          {
+            "question": "The authenticator app shows an invalid code.",
+            "answer": "Ensure your device time is synchronized automatically."
+          }
+        ]
+      }
+    ]
+  }

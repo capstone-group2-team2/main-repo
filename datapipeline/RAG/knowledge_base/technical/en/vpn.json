@@ -1,0 +1,105 @@
+{
+    "id": "tech_vpn",
+    "title": "VPN Connection and Troubleshooting",
+    "language": "en",
+    "category": "technical",
+    "version": "1.0",
+    "last_updated": "2026-07-13",
+    "tags": [
+      "vpn",
+      "network",
+      "remote access",
+      "authentication",
+      "connectivity"
+    ],
+    "keywords": [
+      "vpn",
+      "vpn connection",
+      "vpn disconnected",
+      "vpn timeout",
+      "cannot connect vpn",
+      "authentication failed",
+      "remote access",
+      "vpn login",
+      "vpn not working",
+      "ssl vpn",
+      "ipsec",
+      "openvpn"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "A Virtual Private Network (VPN) allows employees to securely access company resources from remote locations. VPN issues usually involve connection failures, authentication errors, or unstable connectivity."
+      },
+      {
+        "title": "Common Issues",
+        "content": [
+          "Unable to connect to VPN",
+          "VPN disconnects frequently",
+          "Authentication failed",
+          "VPN timeout",
+          "Slow VPN connection",
+          "VPN connected but no internet access"
+        ]
+      },
+      {
+        "title": "Symptoms",
+        "content": [
+          "VPN login fails",
+          "Connection timeout",
+          "Remote resources cannot be accessed",
+          "VPN disconnects every few minutes",
+          "Unable to reach company systems"
+        ]
+      },
+      {
+        "title": "Possible Causes",
+        "content": [
+          "Incorrect username or password",
+          "Internet connection problems",
+          "Expired VPN certificate",
+          "Firewall restrictions",
+          "VPN server outage",
+          "DNS configuration issues"
+        ]
+      },
+      {
+        "title": "Troubleshooting",
+        "content": [
+          "Verify your internet connection.",
+          "Restart the VPN client.",
+          "Check your username and password.",
+          "Reconnect after a few minutes.",
+          "Update the VPN application.",
+          "Restart your computer.",
+          "Contact IT if the problem continues."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Keep the VPN client updated.",
+          "Always disconnect the VPN when not in use.",
+          "Use MFA whenever available.",
+          "Do not share VPN credentials."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "My VPN disconnects every few minutes.",
+            "answer": "Check your internet connection and restart the VPN client."
+          },
+          {
+            "question": "Authentication failed.",
+            "answer": "Verify your username, password, and MFA."
+          },
+          {
+            "question": "I cannot access company resources.",
+            "answer": "Reconnect to the VPN and verify your network connectivity."
+          }
+        ]
+      }
+    ]
+  }

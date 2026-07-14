@@ -1,0 +1,109 @@
+{
+    "id": "tech_software_installation",
+    "title": "Software Installation and Application Issues",
+    "language": "en",
+    "category": "technical",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "software",
+      "application",
+      "installation",
+      "update",
+      "license",
+      "windows"
+    ],
+    "keywords": [
+      "install software",
+      "application not installed",
+      "installation failed",
+      "software update",
+      "license activation",
+      "program not opening",
+      "application error",
+      "missing application",
+      "cannot install",
+      "setup failed"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Software installation issues include failed installations, application crashes, licensing problems, update failures, or missing application dependencies."
+      },
+      {
+        "title": "Common Issues",
+        "content": [
+          "Installation failed",
+          "Application not opening",
+          "License activation failed",
+          "Software update failed",
+          "Missing required permissions",
+          "Application crashes after launch",
+          "Corrupted installation",
+          "Missing dependencies"
+        ]
+      },
+      {
+        "title": "Symptoms",
+        "content": [
+          "Setup wizard closes unexpectedly",
+          "Error during installation",
+          "Application crashes immediately",
+          "License error",
+          "Missing DLL files",
+          "Update stuck"
+        ]
+      },
+      {
+        "title": "Possible Causes",
+        "content": [
+          "Insufficient permissions",
+          "Corrupted installer",
+          "Antivirus blocking installation",
+          "Operating system incompatibility",
+          "Missing prerequisites",
+          "Disk storage is full",
+          "Network interruption"
+        ]
+      },
+      {
+        "title": "Troubleshooting",
+        "content": [
+          "Run the installer as Administrator.",
+          "Verify available disk space.",
+          "Download the installer again if corrupted.",
+          "Temporarily disable antivirus if approved by IT.",
+          "Install all required dependencies.",
+          "Restart the computer after installation.",
+          "Contact IT Support if installation continues to fail."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Install software only from approved sources.",
+          "Keep applications updated.",
+          "Avoid installing unauthorized software.",
+          "Always verify software licenses.",
+          "Restart the device after major installations."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "The installation failed. What should I do?",
+            "answer": "Run the installer as Administrator and verify that all prerequisites are installed."
+          },
+          {
+            "question": "The application crashes after opening.",
+            "answer": "Update the application and reinstall it if necessary."
+          },
+          {
+            "question": "The license cannot be activated.",
+            "answer": "Verify your license key or contact the IT Administrator."
+          }
+        ]
+      }
+    ]
+  }

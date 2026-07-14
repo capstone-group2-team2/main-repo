@@ -1,0 +1,89 @@
+{
+    "id": "hr_payroll",
+    "title": "Payroll and Salary Information",
+    "language": "en",
+    "category": "hr",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "payroll",
+      "salary",
+      "payment",
+      "payslip",
+      "deductions",
+      "finance"
+    ],
+    "keywords": [
+      "salary",
+      "payroll",
+      "payslip",
+      "payment date",
+      "salary deduction",
+      "bonus",
+      "overtime payment",
+      "bank transfer",
+      "tax",
+      "allowance"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Payroll covers employee salaries, allowances, deductions, overtime payments, bonuses, and payslips. Salaries are processed according to the company's payroll schedule."
+      },
+      {
+        "title": "Payroll Components",
+        "content": [
+          "Basic Salary",
+          "Allowances",
+          "Overtime",
+          "Bonuses",
+          "Tax Deductions",
+          "Insurance Deductions"
+        ]
+      },
+      {
+        "title": "Common Issues",
+        "content": [
+          "Salary not received",
+          "Incorrect salary amount",
+          "Missing overtime payment",
+          "Incorrect deductions",
+          "Payslip unavailable"
+        ]
+      },
+      {
+        "title": "Payroll Procedure",
+        "content": [
+          "Payroll is processed monthly.",
+          "Employees receive an electronic payslip.",
+          "Report payroll issues to HR immediately.",
+          "Salary is transferred to the registered bank account."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Review your payslip every month.",
+          "Report payroll discrepancies promptly.",
+          "Keep your banking information updated."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "When is salary paid?",
+            "answer": "Salary is paid according to the company's monthly payroll schedule."
+          },
+          {
+            "question": "I found an incorrect deduction.",
+            "answer": "Contact HR with your payslip for review."
+          },
+          {
+            "question": "How do I get my payslip?",
+            "answer": "Payslips are available through the HR system."
+          }
+        ]
+      }
+    ]
+  }

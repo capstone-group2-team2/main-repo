@@ -1,0 +1,114 @@
+{
+    "id": "tech_email_issues",
+    "title": "Email Issues and Troubleshooting",
+    "language": "en",
+    "category": "technical",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "email",
+      "outlook",
+      "exchange",
+      "mail",
+      "office365",
+      "communication"
+    ],
+    "keywords": [
+      "email not working",
+      "cannot send email",
+      "cannot receive email",
+      "outlook",
+      "mailbox full",
+      "email login",
+      "email sync",
+      "exchange",
+      "office365",
+      "gmail",
+      "email attachment",
+      "spam",
+      "junk mail",
+      "email delayed"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Email issues may include problems sending or receiving messages, mailbox synchronization failures, authentication errors, delayed emails, missing attachments, or mailbox storage limitations."
+      },
+      {
+        "title": "Common Issues",
+        "content": [
+          "Unable to send emails",
+          "Unable to receive emails",
+          "Mailbox full",
+          "Email synchronization failed",
+          "Outlook not opening",
+          "Email attachment cannot be downloaded",
+          "Emails going to spam",
+          "Delayed email delivery"
+        ]
+      },
+      {
+        "title": "Symptoms",
+        "content": [
+          "Emails remain in Outbox",
+          "No new emails received",
+          "Outlook repeatedly asks for password",
+          "Synchronization error",
+          "Attachment download failed",
+          "Mailbox storage warning"
+        ]
+      },
+      {
+        "title": "Possible Causes",
+        "content": [
+          "Internet connection problems",
+          "Incorrect account credentials",
+          "Mailbox storage limit reached",
+          "Mail server outage",
+          "Outdated Outlook application",
+          "Corrupted Outlook profile",
+          "Firewall or antivirus blocking email"
+        ]
+      },
+      {
+        "title": "Troubleshooting",
+        "content": [
+          "Verify your internet connection.",
+          "Restart Outlook or your email client.",
+          "Check your username and password.",
+          "Free mailbox storage if it is full.",
+          "Verify mail server status.",
+          "Update Outlook to the latest version.",
+          "Restart your computer.",
+          "Contact IT Support if the problem persists."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Archive old emails regularly.",
+          "Keep your mailbox below the storage limit.",
+          "Avoid opening suspicious attachments.",
+          "Enable multi-factor authentication.",
+          "Update your email application regularly."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "I cannot send emails.",
+            "answer": "Verify your internet connection, mailbox quota, and SMTP settings."
+          },
+          {
+            "question": "Why am I not receiving emails?",
+            "answer": "Check your spam folder, mailbox storage, and synchronization status."
+          },
+          {
+            "question": "Outlook keeps asking for my password.",
+            "answer": "Verify your credentials or contact IT to reset your account."
+          }
+        ]
+      }
+    ]
+  }

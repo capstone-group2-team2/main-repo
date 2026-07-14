@@ -1,0 +1,110 @@
+{
+    "id": "tech_printer_issues",
+    "title": "Printer Issues and Troubleshooting",
+    "language": "en",
+    "category": "technical",
+    "version": "1.0",
+    "last_updated": "2026-07-14",
+    "tags": [
+      "printer",
+      "printing",
+      "scanner",
+      "paper",
+      "network printer",
+      "office"
+    ],
+    "keywords": [
+      "printer not working",
+      "cannot print",
+      "printer offline",
+      "paper jam",
+      "printer queue",
+      "printer driver",
+      "network printer",
+      "scanner",
+      "printing error",
+      "printer disconnected"
+    ],
+    "sections": [
+      {
+        "title": "Overview",
+        "content": "Printer issues may include printing failures, paper jams, offline printers, connection problems, driver errors, or scanning failures."
+      },
+      {
+        "title": "Common Issues",
+        "content": [
+          "Printer offline",
+          "Unable to print",
+          "Paper jam",
+          "Printer queue stuck",
+          "Scanner not working",
+          "Printer driver missing",
+          "Poor print quality",
+          "Network printer unavailable"
+        ]
+      },
+      {
+        "title": "Symptoms",
+        "content": [
+          "Printer does not respond",
+          "Printing stops unexpectedly",
+          "Blank pages",
+          "Error message displayed",
+          "Scanner cannot be detected",
+          "Jobs remain in print queue"
+        ]
+      },
+      {
+        "title": "Possible Causes",
+        "content": [
+          "Printer is powered off",
+          "Network connection problem",
+          "Paper jam",
+          "Outdated printer driver",
+          "Low ink or toner",
+          "Disconnected USB cable",
+          "Print spooler service failure"
+        ]
+      },
+      {
+        "title": "Troubleshooting",
+        "content": [
+          "Ensure the printer is powered on.",
+          "Check the network or USB connection.",
+          "Clear the print queue.",
+          "Remove any paper jam.",
+          "Restart the printer.",
+          "Update or reinstall the printer driver.",
+          "Restart your computer.",
+          "Contact IT Support if the issue persists."
+        ]
+      },
+      {
+        "title": "Best Practices",
+        "content": [
+          "Keep printer drivers updated.",
+          "Use genuine ink or toner.",
+          "Avoid overloading paper trays.",
+          "Restart printers periodically.",
+          "Report recurring printer errors."
+        ]
+      },
+      {
+        "title": "FAQ",
+        "content": [
+          {
+            "question": "Why is my printer offline?",
+            "answer": "Check the network connection and restart the printer."
+          },
+          {
+            "question": "My print jobs are stuck.",
+            "answer": "Clear the print queue and restart the Print Spooler service."
+          },
+          {
+            "question": "The printer prints blank pages.",
+            "answer": "Check ink or toner levels and verify the printer driver."
+          }
+        ]
+      }
+    ]
+  }
