@@ -1,38 +1,70 @@
-import {
-  signInWithEmailAndPassword,
-} from "firebase/auth";
+import type { AuthUser } from "@/types"
 
-import {
-  doc,
-  getDoc,
-} from "firebase/firestore";
+const CUSTOMER_DEMO = {
+  email: "customer@synova.ai",
+  password: "customer123",
+  user: {
+    role: "customer" as const,
+    id: "CUST-001",
+    name: "Alex Rivera",
+    email: "customer@synova.ai",
+  },
+}
 
-import { auth, db } from "../firebase/firebase";
+const EMPLOYEE_DEMO = {
+  employeeId: "EMP001",
+  password: "employee123",
+  user: {
+    role: "employee" as const,
+    id: "EMP001",
+    name: "Jordan Lee",
+    email: "jordan.lee@synova.ai",
+  },
+}
 
-export async function loginEmployee(
-  employeeId: string,
-  password: string
-) {
-  // البحث عن الموظف في Firestore
-  const employeeRef = doc(db, "employees", employeeId);
+const STORAGE_KEY = "synova_auth_user"
 
-  const employeeSnap = await getDoc(employeeRef);
-
-  if (!employeeSnap.exists()) {
-    throw new Error("Employee not found");
+export function loginCustomer(email: string, password: string): AuthUser {
+  if (
+    email.trim().toLowerCase() === CUSTOMER_DEMO.email &&
+    password === CUSTOMER_DEMO.password
+  ) {
+    persistUser(CUSTOMER_DEMO.user)
+    return CUSTOMER_DEMO.user
   }
+  throw new Error("Invalid customer credentials. Use the demo account shown below.")
+}
 
-  const employeeData = employeeSnap.data();
+export function loginEmployee(employeeId: string, password: string): AuthUser {
+  if (
+    employeeId.trim().toUpperCase() === EMPLOYEE_DEMO.employeeId &&
+    password === EMPLOYEE_DEMO.password
+  ) {
+    persistUser(EMPLOYEE_DEMO.user)
+    return EMPLOYEE_DEMO.user
+  }
+  throw new Error("Invalid employee credentials. Use the demo account shown below.")
+}
 
-  // استخراج الإيميل
-  const email = employeeData.email;
+export function logout(): void {
+  localStorage.removeItem(STORAGE_KEY)
+}
 
-  // تسجيل الدخول باستخدام Firebase Authentication
-  const credential = await signInWithEmailAndPassword(
-    auth,
-    email,
-    password
-  );
+export function getStoredUser(): AuthUser | null {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY)
+    if (!raw) return null
+    return JSON.parse(raw) as AuthUser
+  } catch {
+    return null
+  }
+}
 
-  return credential.user;
+function persistUser(user: AuthUser) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(user))
+}
+
+export const DEMO_CREDENTIALS = {
+  customer: CUSTOMER_DEMO,
+  employee: EMPLOYEE_DEMO,
 }
